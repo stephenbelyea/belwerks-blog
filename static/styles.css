@@ -4,7 +4,9 @@
   --red: #cf1020;
   --black: #343434;
   --font-body: "Crimson Text", Georgia, serif;
-  --font-bold: 700;
+  --font-heading: "Montserrat", Helvetica, sans-serif;
+  --font-weight-normal: 400;
+  --font-weight-bold: 700;
 }
 
 
@@ -19,16 +21,21 @@ html, body {
   overflow-x: hidden;
 }
 
+html {
+  font-size: 20px;
+}
+
 body {
-  font-size: 1.25rem;
+  font-size: 1rem;
   line-height: 1.5;
   color: var(--black);
   font-family: var(--font-body);
+  font-weight: var(--font-weight-normal);
 }
 
 .page {
   width: 85vw;
-  max-width: 60rem;
+  max-width: 65rem;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -44,12 +51,12 @@ body {
 
 .layout > .info,
 .layout > .feed {
-  flex: 0 0 10rem;
+  flex: 0 0 14rem;
 }
 
 .layout > .main {
   flex: 1 1;
-  margin: 0 2rem;
+  margin: 0 3rem;
 }
 
 .page footer {
@@ -61,7 +68,25 @@ body {
 /* Typography */
 
 strong, .bold {
-  font-weight: var(--font-bold);
+  font-weight: var(--font-weight-bold);
+}
+
+h1, h2, h3, .heading {
+  font-family: var(--font-heading);
+  font-weight: var(--font-weight-bold);
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+  text-transform: uppercase;
 }
 
 
@@ -77,4 +102,8 @@ strong, .bold {
 
 .text-centre {
   text-align: center;
+}
+
+.block {
+  display: block;
 }
