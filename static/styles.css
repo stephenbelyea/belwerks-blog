@@ -1,0 +1,80 @@
+/* Variables */
+
+:root {
+  --red: #cf1020;
+  --black: #343434;
+  --font-body: "Crimson Text", Georgia, serif;
+  --font-bold: 700;
+}
+
+
+/* Layout */
+
+html, body, .page {
+  min-height: 100vh;
+}
+
+html, body {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  font-size: 1.25rem;
+  line-height: 1.5;
+  color: var(--black);
+  font-family: var(--font-body);
+}
+
+.page {
+  width: 85vw;
+  max-width: 60rem;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.layout {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2rem;
+  flex: 1 1;
+}
+
+.layout > .info,
+.layout > .feed {
+  flex: 0 0 10rem;
+}
+
+.layout > .main {
+  flex: 1 1;
+  margin: 0 2rem;
+}
+
+.page footer {
+  flex: 0 0;
+  padding: 2rem 0;
+}
+
+
+/* Typography */
+
+strong, .bold {
+  font-weight: var(--font-bold);
+}
+
+
+/* Utilities */
+
+.red {
+  color: var(--red);
+}
+
+.black {
+  color: var(--black);
+}
+
+.text-centre {
+  text-align: center;
+}
