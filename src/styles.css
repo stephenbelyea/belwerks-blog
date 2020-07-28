@@ -1,0 +1,38 @@
+:root {
+  --red: #cf1020;
+  --black: #343434;
+}
+
+html, body {
+  width: 100vw;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+body {
+  font-size: 1rem;
+  color: var(--black);
+}
+
+.page {
+  width: 85vw;
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
+.layout {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2rem;
+}
+
+.layout > .info,
+.layout > .feed {
+  flex: 0 0 10rem;
+}
+
+.layout > .main {
+  flex: 1 1;
+  margin: 0 2rem;
+}

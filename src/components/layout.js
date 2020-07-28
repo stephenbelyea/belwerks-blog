@@ -1,41 +1,60 @@
-import React from "react"
-import { Link } from "gatsby"
+import React from 'react'
+import { Helmet } from 'react-helmet';
+import { useStaticQuery, graphql } from 'gatsby'
 
-class Layout extends React.Component {
-  render() {
-    const { location, title, children } = this.props
-    const rootPath = `${__PATH_PREFIX__}/`
-    let header
+function Layout({ location, title, children }) {
+  const { site } = useStaticQuery(
+    graphql`
+      query {
+        site {
+          siteMetadata {
+            title
+            description
+            author
+          }
+        }
+      }
+    `
+  );
 
-    if (location.pathname === rootPath) {
-      header = (
-        <h1>
-          <Link to={`/`}>
-            {title}
-          </Link>
-        </h1>
-      )
-    } else {
-      header = (
-        <h3>
-          <Link to={`/`}>
-            {title}
-          </Link>
-        </h3>
-      )
-    }
-    return (
-      <div>
-        <header>{header}</header>
-        <main>{children}</main>
+  const rootPath = `${__PATH_PREFIX__}/`;
+  const titleTemplate = location.pathname === rootPath
+    ? site.siteMetadata.title
+    : `%s | ${site.siteMetadata.title}`;
+
+  return (
+    <div className="page">
+      <Helmet
+        title={title}
+        titleTemplate={titleTemplate}
+        htmlAttributes={{
+          lang: 'en',
+        }}
+      >
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" />
+      </Helmet>
+      <div className="layout">
+        <div className="info">
+          <p>Site info</p>
+        </div>
+        <main className="main">
+          <p>Page content</p>
+        </main>
+        <div className="feed">
+          <p>Feed links</p>
+        </div>
+        {/* <header>
+          <h1>{title}</h1>
+        </header>
+        <main>
+          {children}
+        </main>
         <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
+          <p>&copy;</p>
+        </footer> */}
       </div>
-    )
-  }
+    </div>
+  )
 }
 
-export default Layout
+export default Layout;
