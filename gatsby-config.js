@@ -3,7 +3,7 @@ module.exports = {
     title: `Belwerks Blog`,
     author: `Stephen Belyea`,
     description: `Trying out Gatsby`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`
+    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
   },
   plugins: [
     {
@@ -64,6 +64,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-offline`,
-    `gatsby-plugin-react-helmet`
+    `gatsby-plugin-react-helmet`,
   ],
-}
+};

@@ -41,7 +41,7 @@ function Layout({ location, title, children }) {
         <link
           rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Montserrat:700|Crimson+Text:400,700"
-        ></link>
+        />
         <link rel="stylesheet" href="/styles.css" />
       </Helmet>
       <div className="layout">
