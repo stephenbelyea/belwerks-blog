@@ -45,8 +45,11 @@ function Layout({ location, title, children }) {
       </Helmet>
       <div className="layout">
         <div className="info">
-          <Link to="/" className="blog-name heading">
-            <span className="red">bel</span>werks blog
+          <Link to="/" className="blog-name heading" aria-label="belwerks blog">
+            <span aria-hidden="true">
+              <span className="red">bel</span>
+              <span className="black">werks blog</span>
+            </span>
           </Link>
         </div>
         <main className="main">{children}</main>
@@ -57,9 +60,12 @@ function Layout({ location, title, children }) {
       <footer>
         <p className="text-centre">
           &copy;{year}{" "}
-          <strong>
-            <span className="red">bel</span>werks
-          </strong>{" "}
+          <a href="http://belwerks.com" className="bold" aria-label="belwerks">
+            <span aria-hidden="true">
+              <span className="red">bel</span>
+              <span className="black">werks</span>
+            </span>
+          </a>{" "}
           | {site.siteMetadata.author}
         </p>
       </footer>
