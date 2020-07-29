@@ -1,6 +1,6 @@
 import React from "react";
 import { Helmet } from "react-helmet";
-import { useStaticQuery, graphql } from "gatsby";
+import { useStaticQuery, graphql, Link } from "gatsby";
 
 const year = new Date().getFullYear();
 const rootPath = `${__PATH_PREFIX__}/`;
@@ -11,8 +11,7 @@ function Layout({ location, title, children }) {
       query {
         site {
           siteMetadata {
-            title
-            description
+            title,
             author
           }
         }
@@ -46,11 +45,9 @@ function Layout({ location, title, children }) {
       </Helmet>
       <div className="layout">
         <div className="info">
-          <h2>
-            <strong>
-              <span className="red">bel</span>werks blog
-            </strong>
-          </h2>
+          <Link to="/" className="blog-name heading">
+            <span className="red">bel</span>werks blog
+          </Link>
         </div>
         <main className="main">{children}</main>
         <div className="feed">
@@ -63,7 +60,7 @@ function Layout({ location, title, children }) {
           <strong>
             <span className="red">bel</span>werks
           </strong>{" "}
-          | Stephen Belyea
+          | {site.siteMetadata.author}
         </p>
       </footer>
     </div>
