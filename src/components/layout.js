@@ -58,7 +58,7 @@ function Layout({ location, title, children }) {
         </div>
       </div>
       <footer>
-        <p className="text-centre no-margin">
+        <p className="text-centre no-margin small">
           &copy;{year}{" "}
           <a href="http://belwerks.com" className="bold" aria-label="belwerks">
             <span aria-hidden="true">

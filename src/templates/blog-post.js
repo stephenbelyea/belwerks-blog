@@ -18,7 +18,12 @@ class BlogPostTemplate extends React.Component {
         <article className="post">
           <header>
             <h1>{post.frontmatter.title}</h1>
-            <p className="small dark-red">{post.frontmatter.date}</p>
+            <div className="post-meta heading">
+              <p className="small dark-grey post-date">{post.frontmatter.date}</p>
+              <p className="small bold">
+                <Link to="/" className="back-home">Back to home</Link>
+              </p>
+            </div>
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
         </article>
