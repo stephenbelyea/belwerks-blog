@@ -39,7 +39,7 @@ function Layout({ location, title, children }) {
         />
         <link
           rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Montserrat:700|Crimson+Text:400,700"
+          href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,700&family=Montserrat:wght@600&display=swap"
         />
         <link rel="stylesheet" href="/styles.css" />
       </Helmet>
@@ -58,7 +58,7 @@ function Layout({ location, title, children }) {
         </div>
       </div>
       <footer>
-        <p className="text-centre">
+        <p className="text-centre no-margin">
           &copy;{year}{" "}
           <a href="http://belwerks.com" className="bold" aria-label="belwerks">
             <span aria-hidden="true">

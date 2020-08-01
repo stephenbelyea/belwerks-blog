@@ -15,28 +15,29 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
         />
-        <article>
+        <article className="post">
           <header>
             <h1>{post.frontmatter.title}</h1>
-            <p>{post.frontmatter.date}</p>
+            <p className="small dark-red">{post.frontmatter.date}</p>
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
-          <hr />
         </article>
 
-        <nav>
+        <nav className="post-nav heading">
           <ul>
             <li>
               {previous && (
                 <Link to={previous.fields.slug} rel="prev">
-                  ← {previous.frontmatter.title}
+                  <span className="visually-hidden">previous post </span>
+                  {previous.frontmatter.title}
                 </Link>
               )}
             </li>
             <li>
               {next && (
                 <Link to={next.fields.slug} rel="next">
-                  {next.frontmatter.title} →
+                  <span className="visually-hidden">next post </span>
+                  {next.frontmatter.title}
                 </Link>
               )}
             </li>

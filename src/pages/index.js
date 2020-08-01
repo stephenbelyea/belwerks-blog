@@ -11,12 +11,12 @@ function BlogIndex({ location, data }) {
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug;
         return (
-          <article key={node.fields.slug}>
+          <article className="post-feed" key={node.fields.slug}>
             <header>
               <h2>
                 <Link to={node.fields.slug}>{title}</Link>
               </h2>
-              <small>{node.frontmatter.date}</small>
+              <p className="small dark-red">{node.frontmatter.date}</p>
             </header>
             <section>
               <p
