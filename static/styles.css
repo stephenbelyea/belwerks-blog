@@ -50,7 +50,7 @@ body {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  padding: 2.5rem 2rem;
+  padding: 1.5rem 2rem 2.5rem;
   flex: 1 1;
 }
 
@@ -65,12 +65,28 @@ body {
   max-width: 40rem;
 }
 
+.info .logo {
+  display: block;
+  max-width: 5rem;
+  width: 70%;
+  margin: 0 auto;
+}
+
+svg {
+  max-width: 100%;
+  height: auto;
+}
+
 .page header {
   margin-bottom: 2rem;
 }
 
+.page h1 {
+  margin-top: 1.125rem;
+}
+
 .post-feed {
-  margin: 1.5rem 0 2.5rem;
+  margin: 2rem 0 2.5rem;
 }
 
 .post-feed header {
