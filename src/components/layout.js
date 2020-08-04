@@ -66,23 +66,22 @@ function Layout({ location, title, children }) {
             </span>
           </Link>
         </div>
-        <main className="main">{children}</main>
-        <div className="feed">
-          <p>Feed links</p>
-        </div>
+        <main className="main">
+          {children}
+        </main>
+        <footer>
+          <p className="text-centre no-margin small">
+            &copy;{year}{" "}
+            <a href="http://belwerks.com" className="bold" aria-label="belwerks">
+              <span aria-hidden="true">
+                <span className="red">bel</span>
+                <span className="black">werks</span>
+              </span>
+            </a>{" "}
+            | {site.siteMetadata.author}
+          </p>
+        </footer>
       </div>
-      <footer>
-        <p className="text-centre no-margin small">
-          &copy;{year}{" "}
-          <a href="http://belwerks.com" className="bold" aria-label="belwerks">
-            <span aria-hidden="true">
-              <span className="red">bel</span>
-              <span className="black">werks</span>
-            </span>
-          </a>{" "}
-          | {site.siteMetadata.author}
-        </p>
-      </footer>
     </div>
   );
 }
