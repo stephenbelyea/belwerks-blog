@@ -2,4 +2,8 @@ const ROUTES = {
   HOME: "/",
 };
 
-export { ROUTES };
+const LINKS = {
+  LINKEDIN: 'https://www.linkedin.com/in/sebelyea/'
+}
+
+export { ROUTES, LINKS };

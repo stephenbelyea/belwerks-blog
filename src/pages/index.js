@@ -1,6 +1,6 @@
 import React from "react";
 import { graphql } from "gatsby";
-import { FeedPost, Layout, SEO } from "../components";
+import { FeedPost, Layout, SEO, Bio } from "../components";
 
 function BlogIndex({ location, data }) {
   const posts = data.allMarkdownRemark.edges || [];
@@ -14,6 +14,7 @@ function BlogIndex({ location, data }) {
           You've reached <span className="red">bel</span>werks.
         </small>
       </h1>
+      <Bio />
       {posts.map(({ node }) => (
         <FeedPost post={node} />
       ))}

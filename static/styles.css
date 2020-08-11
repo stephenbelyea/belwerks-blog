@@ -89,18 +89,9 @@ header {
   margin-bottom: 0.75rem;
 }
 
-.post-meta {
-  display: flex;
-  justify-content: space-between;
-}
-
-.post-meta .post-date {
-  order: 2;
-}
-
 .post-nav {
   padding: 1rem 0;
-  margin-top: 4rem;
+  margin-top: 3rem;
   font-size: 0.925rem;
 }
 
@@ -116,12 +107,10 @@ header {
   margin: 0;
 }
 
-.post-nav a,
-.post-meta .back-home {
+.post-nav a {
   position: relative;
 }
 
-.post-meta .back-home:before,
 .post-nav [rel="next"]:after,
 .post-nav [rel="prev"]:before {
   position: absolute;
@@ -140,17 +129,26 @@ header {
   transform: translateX(0.15rem);
 }
 
-.post-meta .back-home:before,
 .post-nav [rel="prev"]:before {
   content: "‹";
   left: -0.75rem;
 }
 
-.post-meta .back-home:hover:before,
-.post-meta .back-home:focus:before,
 .post-nav [rel="prev"]:hover:before,
 .post-nav [rel="prev"]:focus:before {
   transform: translateX(-0.15rem);
+}
+
+.post-meta {
+  margin: 1.5rem 0 2rem;
+}
+
+.post-meta > p {
+  margin: 0.25rem 0;
+}
+
+.bio {
+  margin-bottom: 3rem;
 }
 
 

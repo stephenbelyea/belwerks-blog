@@ -18,14 +18,10 @@ class BlogPostTemplate extends React.Component {
         <article className="post">
           <header>
             <h1>{post.frontmatter.title}</h1>
-            <div className="post-meta heading">
-              <p className="small dark-grey post-date">
+            <div className="post-meta heading small dark-grey">
+              <p className="post-author">Stephen Belyea</p>
+              <p className="post-date">
                 {post.frontmatter.date}
-              </p>
-              <p className="small bold">
-                <Link to={ROUTES.HOME} className="back-home">
-                  Back to home
-                </Link>
               </p>
             </div>
           </header>
