@@ -20,9 +20,7 @@ class BlogPostTemplate extends React.Component {
             <h1>{post.frontmatter.title}</h1>
             <div className="post-meta heading small dark-grey">
               <p className="post-author">Stephen Belyea</p>
-              <p className="post-date">
-                {post.frontmatter.date}
-              </p>
+              <p className="post-date">{post.frontmatter.date}</p>
             </div>
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
