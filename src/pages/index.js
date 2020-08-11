@@ -1,6 +1,6 @@
 import React from "react";
-import { Link, graphql } from "gatsby";
-import { Layout, SEO } from "../components";
+import { graphql } from "gatsby";
+import { FeedPost, Layout, SEO } from "../components";
 
 function BlogIndex({ location, data }) {
   const posts = data.allMarkdownRemark.edges || [];
@@ -8,27 +8,11 @@ function BlogIndex({ location, data }) {
   return (
     <Layout>
       <SEO title={data.site.siteMetadata.title} location={location} />
-      <h1>Hello there!</h1>
-      {posts.map(({ node }) => {
-        const postTitle = node.frontmatter.title || node.fields.slug;
-        return (
-          <article className="post-feed" key={node.fields.slug}>
-            <header>
-              <h2>
-                <Link to={node.fields.slug}>{postTitle}</Link>
-              </h2>
-              <p className="small dark-red">{node.frontmatter.date}</p>
-            </header>
-            <section>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
-            </section>
-          </article>
-        );
-      })}
+      <h1>
+        <span className="red">Hello!</span>
+        <small className="block">You've reached <span className="red">bel</span>werks.</small>
+      </h1>
+      {posts.map(({ node }) => <FeedPost post={node} />)}
     </Layout>
   );
 }
