@@ -1,7 +1,5 @@
 const ROUTES = {
-  HOME: '/'
+  HOME: "/",
 };
 
-export {
-  ROUTES
-};
+export { ROUTES };

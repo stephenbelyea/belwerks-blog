@@ -10,14 +10,22 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout>
-        <SEO location={this.props.location} title={post.frontmatter.title} description={post.frontmatter.description} />
+        <SEO
+          location={this.props.location}
+          title={post.frontmatter.title}
+          description={post.frontmatter.description}
+        />
         <article className="post">
           <header>
             <h1>{post.frontmatter.title}</h1>
             <div className="post-meta heading">
-              <p className="small dark-grey post-date">{post.frontmatter.date}</p>
+              <p className="small dark-grey post-date">
+                {post.frontmatter.date}
+              </p>
               <p className="small bold">
-                <Link to={ROUTES.HOME} className="back-home">Back to home</Link>
+                <Link to={ROUTES.HOME} className="back-home">
+                  Back to home
+                </Link>
               </p>
             </div>
           </header>

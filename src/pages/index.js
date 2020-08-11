@@ -10,9 +10,13 @@ function BlogIndex({ location, data }) {
       <SEO title={data.site.siteMetadata.title} location={location} />
       <h1>
         <span className="red">Hello!</span>
-        <small className="block">You've reached <span className="red">bel</span>werks.</small>
+        <small className="block">
+          You've reached <span className="red">bel</span>werks.
+        </small>
       </h1>
-      {posts.map(({ node }) => <FeedPost post={node} />)}
+      {posts.map(({ node }) => (
+        <FeedPost post={node} />
+      ))}
     </Layout>
   );
 }

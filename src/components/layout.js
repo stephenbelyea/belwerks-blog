@@ -21,19 +21,90 @@ function Layout({ children }) {
     <div className="page">
       <div className="layout">
         <div className="info">
-          <Link to={ROUTES.HOME} className="blog-name heading" aria-label="belwerks blog">
+          <Link
+            to={ROUTES.HOME}
+            className="blog-name heading"
+            aria-label="belwerks blog"
+          >
             <span className="logo" aria-hidden="true">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 91" width="110">
-                <circle cx="42" cy="14" r="12" stroke="#353434" strokeWidth="3" fill="none"></circle>
-                <circle cx="70" cy="28" r="12" stroke="#353434" strokeWidth="3" fill="none"></circle>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 84 91"
+                width="110"
+              >
+                <circle
+                  cx="42"
+                  cy="14"
+                  r="12"
+                  stroke="#353434"
+                  strokeWidth="3"
+                  fill="none"
+                ></circle>
+                <circle
+                  cx="70"
+                  cy="28"
+                  r="12"
+                  stroke="#353434"
+                  strokeWidth="3"
+                  fill="none"
+                ></circle>
                 <circle cx="14" cy="63" r="8" fill="#cf1020"></circle>
-                <circle cx="14" cy="63" r="12" stroke="#353434" strokeWidth="3" fill="none"></circle>
-                <circle cx="42" cy="77" r="12" stroke="#353434" strokeWidth="3" fill="none"></circle>
-                <circle cx="70" cy="63" r="12" stroke="#353434" strokeWidth="3" fill="none"></circle>
-                <line x1="14" x2="70" y1="45.5" y2="45.5" stroke="#353434" strokeWidth="3"></line>
-                <line x1="42" x2="42" y1="26" y2="64" stroke="#353434" strokeWidth="3"></line>
-                <line x1="14" x2="14" y1="44" y2="50" stroke="#353434" strokeWidth="3"></line>
-                <line x1="70" x2="70" y1="40" y2="50" stroke="#353434" strokeWidth="3"></line>
+                <circle
+                  cx="14"
+                  cy="63"
+                  r="12"
+                  stroke="#353434"
+                  strokeWidth="3"
+                  fill="none"
+                ></circle>
+                <circle
+                  cx="42"
+                  cy="77"
+                  r="12"
+                  stroke="#353434"
+                  strokeWidth="3"
+                  fill="none"
+                ></circle>
+                <circle
+                  cx="70"
+                  cy="63"
+                  r="12"
+                  stroke="#353434"
+                  strokeWidth="3"
+                  fill="none"
+                ></circle>
+                <line
+                  x1="14"
+                  x2="70"
+                  y1="45.5"
+                  y2="45.5"
+                  stroke="#353434"
+                  strokeWidth="3"
+                ></line>
+                <line
+                  x1="42"
+                  x2="42"
+                  y1="26"
+                  y2="64"
+                  stroke="#353434"
+                  strokeWidth="3"
+                ></line>
+                <line
+                  x1="14"
+                  x2="14"
+                  y1="44"
+                  y2="50"
+                  stroke="#353434"
+                  strokeWidth="3"
+                ></line>
+                <line
+                  x1="70"
+                  x2="70"
+                  y1="40"
+                  y2="50"
+                  stroke="#353434"
+                  strokeWidth="3"
+                ></line>
               </svg>
             </span>
             <span aria-hidden="true">
@@ -42,13 +113,15 @@ function Layout({ children }) {
             </span>
           </Link>
         </div>
-        <main className="main">
-          {children}
-        </main>
+        <main className="main">{children}</main>
         <footer>
           <p className="text-centre no-margin small">
             &copy;{year}{" "}
-            <a href="http://belwerks.com" className="bold" aria-label="belwerks">
+            <a
+              href="http://belwerks.com"
+              className="bold"
+              aria-label="belwerks"
+            >
               <span aria-hidden="true">
                 <span className="red">bel</span>
                 <span className="black">werks</span>

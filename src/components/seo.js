@@ -1,8 +1,8 @@
-import React from "react"
-import PropTypes from "prop-types"
-import { Helmet } from "react-helmet"
-import { useStaticQuery, graphql } from "gatsby"
-import { ROUTES } from "../constants"
+import React from "react";
+import PropTypes from "prop-types";
+import { Helmet } from "react-helmet";
+import { useStaticQuery, graphql } from "gatsby";
+import { ROUTES } from "../constants";
 
 const SEO = ({ description, lang, meta, title, location }) => {
   const { site } = useStaticQuery(
@@ -16,9 +16,9 @@ const SEO = ({ description, lang, meta, title, location }) => {
         }
       }
     `
-  )
+  );
 
-  const metaDescription = description || site.siteMetadata.description
+  const metaDescription = description || site.siteMetadata.description;
   const titleTemplate =
     location.pathname === ROUTES.HOME
       ? site.siteMetadata.title
@@ -72,22 +72,22 @@ const SEO = ({ description, lang, meta, title, location }) => {
       />
       <link rel="stylesheet" href="/styles.css" />
     </Helmet>
-  )
-}
+  );
+};
 
 SEO.propTypes = {
   description: PropTypes.string,
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
-  location: PropTypes.object
-}
+  location: PropTypes.object,
+};
 
 SEO.defaultProps = {
   lang: `en`,
   meta: [],
   description: ``,
-  location: {}
-}
+  location: {},
+};
 
-export default SEO
+export default SEO;
