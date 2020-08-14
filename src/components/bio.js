@@ -21,7 +21,7 @@ function Bio(props) {
       </p>
       <p>
         Feel free to reach out on{" "}
-        <a href={LINKS.LINKEDIN} target="_blank">
+        <a href={LINKS.LINKEDIN} target="_blank" rel="noreferrer">
           LinkedIn<span className="visually-hidden"> opens in new tab</span>
         </a>{" "}
         if you’re in Kitchener and want to grab some coffee. Thanks for stopping

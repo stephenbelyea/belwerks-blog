@@ -1,7 +1,6 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
 import { Layout, SEO } from "../components";
-import { ROUTES } from "../constants";
 
 class BlogPostTemplate extends React.Component {
   render() {

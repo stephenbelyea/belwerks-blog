@@ -129,6 +129,25 @@ function Layout({ children }) {
             </a>{" "}
             | {site.siteMetadata.author}
           </p>
+          <p className="text-centre no-margin small">
+            Built{" "}
+            <a
+              href="https://www.gatsbyjs.com/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              in React with Gatsby
+            </a>{" "}
+            on top of the{" "}
+            <a
+              href="https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Gatsby Starter Blog theme
+            </a>
+            .
+          </p>
         </footer>
       </div>
     </div>
