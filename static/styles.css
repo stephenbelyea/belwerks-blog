@@ -151,6 +151,54 @@ header {
   margin-bottom: 3rem;
 }
 
+ul.social {
+  list-style: none;
+  padding: 0; 
+  margin-top: 2.85rem;
+}
+
+ul.social li {
+  margin: 0.875rem 0;
+}
+
+.social a {
+  box-shadow: none !important;
+}
+
+.social .social-link {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.social .icon {
+  --icon-size: 1.275rem;
+
+  flex: 0 0 var(--icon-size);
+  height: var(--icon-size);
+  margin-right: 0.5rem;
+  transition: transform var(--time);
+}
+
+.social .icon path {
+  transition: fill var(--time);
+}
+
+.social a:hover .icon,
+.social a:focus .icon {
+  transform: scale(1.1);
+}
+
+.social a:hover .icon path,
+.social a:focus .icon path {
+  fill: var(--dark-red);
+}
+
+.social a:hover .text,
+.social a:focus .text {
+  text-decoration: underline;
+}
+
 
 /* Typography */
 
@@ -166,7 +214,7 @@ h1, h2, h3, .heading {
 
 h1 {
   font-size: 2.25rem;
-  margin: 1.25rem 0 0.15em;
+  margin: 0.45rem 0 0.15em;
 }
 
 h2 {
