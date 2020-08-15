@@ -1,6 +1,7 @@
 export { default as Bio } from "./bio";
 export { default as FeedPost } from "./feed-post";
 export { default as Footer } from "./footer";
+export { default as HomeLink } from "./home-link";
 export { default as Layout } from "./layout";
 export { default as Logo } from "./logo";
 export { default as LogoLink } from "./logo-link";

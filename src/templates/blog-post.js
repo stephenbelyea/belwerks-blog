@@ -6,11 +6,12 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
     const { previous, next } = this.props.pageContext;
+    const { location } = this.props;
 
     return (
-      <Layout>
+      <Layout location={location}>
         <SEO
-          location={this.props.location}
+          location={location}
           title={post.frontmatter.title}
           description={post.frontmatter.description}
         />

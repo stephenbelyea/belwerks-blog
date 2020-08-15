@@ -25,7 +25,7 @@ function Footer() {
       <p className="text-centre no-margin small">
         &copy;{year}
         <strong>
-          <span className="red">bel</span>werks
+          <span className="red"> bel</span>werks
         </strong>{" "}
         | Stephen Belyea
       </p>

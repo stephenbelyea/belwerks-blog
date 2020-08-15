@@ -107,12 +107,14 @@ header {
   margin: 0;
 }
 
-.post-nav a {
+.post-nav a,
+.home-link a {
   position: relative;
 }
 
 .post-nav [rel="next"]:after,
-.post-nav [rel="prev"]:before {
+.post-nav [rel="prev"]:before,
+.home-link a:before {
   position: absolute;
   font-size: 1.5em;
   line-height: 0.9;
@@ -129,13 +131,16 @@ header {
   transform: translateX(0.15rem);
 }
 
-.post-nav [rel="prev"]:before {
+.post-nav [rel="prev"]:before,
+.home-link a:before {
   content: "‹";
   left: -0.75rem;
 }
 
 .post-nav [rel="prev"]:hover:before,
-.post-nav [rel="prev"]:focus:before {
+.post-nav [rel="prev"]:focus:before,
+.home-link a:hover:before,
+.home-link a:focus:before {
   transform: translateX(-0.15rem);
 }
 
@@ -151,10 +156,14 @@ header {
   margin-bottom: 3rem;
 }
 
+.home-link {
+  margin-top: 3.75rem;
+}
+
 ul.social {
   list-style: none;
   padding: 0; 
-  margin-top: 2.85rem;
+  margin-top: 5.8rem;
 }
 
 ul.social li {

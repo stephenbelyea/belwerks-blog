@@ -5,7 +5,7 @@ import { ROUTES } from "../constants";
 
 function NotFoundPage({ location }) {
   return (
-    <Layout>
+    <Layout location={location}>
       <SEO location={location} title="Not Found" />
       <h1>Not found</h1>
       <p>

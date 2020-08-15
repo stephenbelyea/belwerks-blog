@@ -6,7 +6,7 @@ function BlogIndex({ location, data }) {
   const posts = data.allMarkdownRemark.edges || [];
 
   return (
-    <Layout>
+    <Layout location={location}>
       <SEO title={data.site.siteMetadata.title} location={location} />
       <h1>
         <span className="red">Hello!</span>
@@ -15,8 +15,8 @@ function BlogIndex({ location, data }) {
         </small>
       </h1>
       <Bio />
-      {posts.map(({ node }) => (
-        <FeedPost post={node} />
+      {posts.map(({ node }, i) => (
+        <FeedPost key={i} post={node} />
       ))}
     </Layout>
   );

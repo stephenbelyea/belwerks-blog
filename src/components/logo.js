@@ -80,7 +80,7 @@ function Logo() {
           ></line>
         </svg>
       </span>
-      <span aria-hidden="true">
+      <span aria-hidden="true" className="block text-centre">
         <span className="red">bel</span>
         <span className="black">werks</span>
       </span>
