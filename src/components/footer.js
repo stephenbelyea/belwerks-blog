@@ -24,13 +24,19 @@ function Footer() {
     <footer>
       <p className="text-centre no-margin small">
         &copy;{year}
-        <strong><span className="red">bel</span>werks</strong> | Stephen Belyea
+        <strong>
+          <span className="red">bel</span>werks
+        </strong>{" "}
+        | Stephen Belyea
       </p>
       <p className="text-centre no-margin small">
-        <em>Built <LinkGatsby /> on top of the <LinkTheme /></em>.
+        <em>
+          Built <LinkGatsby /> on top of the <LinkTheme />
+        </em>
+        .
       </p>
     </footer>
   );
 }
 
-export default Footer
+export default Footer;
