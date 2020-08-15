@@ -11,7 +11,7 @@ function Layout({ children, location }) {
       <div className="layout">
         <div className="info">
           <LogoLink />
-          {location.pathname !== ROUTES.HOME && <HomeLink />}
+          {location && location.pathname !== ROUTES.HOME && <HomeLink />}
           <Social />
         </div>
         <main className="main">{children}</main>
