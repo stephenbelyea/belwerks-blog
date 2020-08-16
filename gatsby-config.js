@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Belwerks Blog`,
     author: `Stephen Belyea`,
-    description: `Trying out Gatsby`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Writing, prototyping, tinkering, and assorted thoughts jumbled together.`,
+    siteUrl: `http://belwerks.com/`,
   },
   plugins: [
     {
