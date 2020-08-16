@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "belwerks-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Belwerks blog site based on Gatsby starter blog theme",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Stephen Belyea <belyea.stephen@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/stephenbelyea/belwerks-blog/issues"
   },
   "dependencies": {
     "gatsby": "^2.24.11",
@@ -32,7 +32,7 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/stephenbelyea/belwerks-blog#readme",
   "keywords": [
     "gatsby"
   ],
@@ -40,7 +40,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/stephenbelyea/belwerks-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
