@@ -432,6 +432,17 @@ li > ul {
     margin: 0.25rem 1rem 0 0;
   }
 
+  ul.social {
+    margin: 1.5rem 0 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+
+  ul.social li {
+    margin-right: 2rem;
+  }
+
   h1 {
     font-size: 1.75rem;
   }
