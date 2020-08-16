@@ -274,7 +274,7 @@ em {
 }
 
 a {
-  display: inline-block;
+  display: inline;
   color: var(--red);
   text-decoration: none;
   box-shadow: 0 0.05em 0 var(--red); 
