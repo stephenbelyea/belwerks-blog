@@ -5,6 +5,7 @@ function Logo() {
     <>
       <span className="logo" aria-hidden="true">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 91" width="110">
+          <title>belwerks</title>
           <circle
             cx="42"
             cy="14"
@@ -12,7 +13,7 @@ function Logo() {
             stroke="#353434"
             strokeWidth="3"
             fill="none"
-          ></circle>
+          />
           <circle
             cx="70"
             cy="28"
@@ -20,8 +21,8 @@ function Logo() {
             stroke="#353434"
             strokeWidth="3"
             fill="none"
-          ></circle>
-          <circle cx="14" cy="63" r="8" fill="#cf1020"></circle>
+          />
+          <circle cx="14" cy="63" r="8" fill="#cf1020" />
           <circle
             cx="14"
             cy="63"
@@ -29,7 +30,7 @@ function Logo() {
             stroke="#353434"
             strokeWidth="3"
             fill="none"
-          ></circle>
+          />
           <circle
             cx="42"
             cy="77"
@@ -37,7 +38,7 @@ function Logo() {
             stroke="#353434"
             strokeWidth="3"
             fill="none"
-          ></circle>
+          />
           <circle
             cx="70"
             cy="63"
@@ -45,7 +46,7 @@ function Logo() {
             stroke="#353434"
             strokeWidth="3"
             fill="none"
-          ></circle>
+          />
           <line
             x1="14"
             x2="70"
@@ -53,7 +54,7 @@ function Logo() {
             y2="45.5"
             stroke="#353434"
             strokeWidth="3"
-          ></line>
+          />
           <line
             x1="42"
             x2="42"
@@ -61,7 +62,7 @@ function Logo() {
             y2="64"
             stroke="#353434"
             strokeWidth="3"
-          ></line>
+          />
           <line
             x1="14"
             x2="14"
@@ -69,7 +70,7 @@ function Logo() {
             y2="50"
             stroke="#353434"
             strokeWidth="3"
-          ></line>
+          />
           <line
             x1="70"
             x2="70"
@@ -77,7 +78,7 @@ function Logo() {
             y2="50"
             stroke="#353434"
             strokeWidth="3"
-          ></line>
+          />
         </svg>
       </span>
       <span aria-hidden="true" className="block text-centre">

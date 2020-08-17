@@ -425,11 +425,16 @@ li > ul {
     display: flex;
     align-items: center;
     box-shadow: none !important;
+    font-size: 1.15rem;
   }
 
   .info .logo {
-    width: 3.5rem;
+    width: 3.75rem;
     margin: 0.25rem 1rem 0 0;
+  }
+
+  .home-link {
+    margin-top: 0.75rem;
   }
 
   ul.social {
