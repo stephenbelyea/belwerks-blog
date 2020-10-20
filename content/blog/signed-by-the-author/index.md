@@ -192,7 +192,7 @@ Mirabelle smiled at her granddaughter. She closed the shed and held out her hand
 
 Elise pulled the three hardcover books from her bag and set them on the table. Mirabelle dried her hands and carefully folded the towel before returning it to the oven door’s handle. She turned, smiling at her granddaughter. 
 
-“Did this elp with your assignment?” Mirabelle asked, picking up the ancient hardcover. Her smiled settled to a content smirk as she caressed the book’s spine.  
+“Did this elp with your assignment?” Mirabelle asked, picking up the ancient hardcover. Her smile settled to a content smirk as she caressed the book’s spine.  
 
 “Kind of,” Elise shrugged, “but I didn’t do it on that one.”
 
