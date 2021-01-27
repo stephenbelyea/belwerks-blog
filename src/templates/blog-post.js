@@ -26,6 +26,18 @@ class BlogPostTemplate extends React.Component {
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
         </article>
 
+        <div className="discuss">
+          <h2>Keep the discussion going</h2>
+          <p>
+            Like anything you've read? Have something to add? Let's move the conversation over to a forum where others can join in.
+          </p>
+          <p>
+            <a href="https://twitter.com/intent/tweet?text=@belwerks%20" target="_blank" rel="noreferrer" className="bold">
+              Reply to @belwerks on Twitter
+            </a>.
+          </p>
+        </div>
+
         <nav className="post-nav heading">
           <ul>
             <li>

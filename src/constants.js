@@ -9,6 +9,7 @@ const LINKS = {
   GITHUB: "https://github.com/stephenbelyea",
   LINKEDIN: "https://www.linkedin.com/in/sebelyea/",
   MEDIUM: "https://medium.com/@belwerks",
+  TWITTER: "https://twitter.com/belwerks",
   THEME: "https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog",
 };
 
