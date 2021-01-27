@@ -1,10 +1,18 @@
 import React from "react";
 import { LINKS } from "../constants";
-import { IconMedium, IconLinkedin, IconCodepen, IconGithub } from "./icons";
+import { IconMedium, IconLinkedin, IconCodepen, IconGithub, IconTwitter } from "./icons";
 
 function Social() {
   return (
     <ul className="social small">
+      <li>
+        <a href={LINKS.TWITTER} target="_blank" rel="noreferrer">
+          <span className="social-link">
+            <IconTwitter />
+            <span className="text">Twitter</span>
+          </span>
+        </a>
+      </li>
       <li>
         <a href={LINKS.LINKEDIN} target="_blank" rel="noreferrer">
           <span className="social-link">
