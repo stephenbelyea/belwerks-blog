@@ -68,7 +68,7 @@ Did you know explainers are their own genre now? You can search and filter by th
 
 ### Anger leads to hate
 
-I can't stress this one enough: avoid content that riles you up. If the creator you're absorbing is raging against a group - especially those less powerful or privileged than they are - tread carefully! This is a gateway through the radicalization funnel that YouTube is uniquely gifted at providing. If you share those same attributes as me (listed in the last section), this is an especially vital one.
+I can't stress this one enough: avoid content that riles you up. If the creator you're absorbing is raging against a group - especially those less powerful or privileged than they are - tread carefully! This is a gateway through the radicalization funnel that YouTube is uniquely gifted at providing. If you share those same attributes as me (listed a couple of sections back), this is an especially vital one. Historically, when guys who look like us get angry people get hurt.
 
 ### Curb your conspiracy
 
