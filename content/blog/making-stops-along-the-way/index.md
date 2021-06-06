@@ -23,7 +23,7 @@ I love music, but I frequently find myself dazing out to lyrics. I'll have a few
 
 ![Shelf of paperback spines, featuring Hunter S. Thompson, Margaret Atwood, Kurt Vonnegut Jr., and three books from Hugh MacLennan](./maclennan-books.jpg)
 
-This time around, "Looking For a Place to Happen" was the track that grabbed me. I've like the starting verse for years, since first hearing it:
+This time around, "Looking For a Place to Happen" was the track that grabbed me. I've liked the starting verse for years, since first hearing it:
 
 > Got a job <br />
 > I explore <br />
