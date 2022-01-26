@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Belwerks Blog]]></title><description><![CDATA[Writing, prototyping, tinkering, and assorted thoughts jumbled together.]]></description><link>http://belwerks.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Jan 2022 21:04:17 GMT</lastBuildDate><item><title><![CDATA[Confessions of a (recovering) political junkie]]></title><description><![CDATA[Remember that (Canadian) federal election last year? It’s ok if you don’t. We all had bigger things to deal with that made it tough to…]]></description><link>http://belwerks.com/confessions-of-a-recovering-political-junkie/</link><guid isPermaLink="false">http://belwerks.com/confessions-of-a-recovering-political-junkie/</guid><pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Remember &lt;a href=&quot;https://www.theglobeandmail.com/politics/federal-election/2021-results/&quot;&gt;that (Canadian) federal election last year&lt;/a&gt;? It’s ok if you don’t. We all had bigger things to deal with that made it tough to muster any excitement for the political game. I remember it for one main reason: it was the first time in 17 years of being able to vote that I very nearly didn’t bother. &lt;/p&gt;
+&lt;p&gt;If you don’t know me, this probably isn’t anything remarkable. &lt;a href=&quot;https://en.wikipedia.org/wiki/Voter_turnout_in_Canada&quot;&gt;Plenty of people don’t vote&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;If you do know me - especially pre-pandemic - you know this is a substantial change of heart. I’ve long been one of those blowhard “exercise your democratic right/responsibility” types, preaching the power of voting and political engagement as the primary tool for driving meaningful change. To believe anything different or to “throw away” your vote was essentially committing heresy against the democratic religion.&lt;/p&gt;
+&lt;p&gt;Yeah, I know. I’m cringing too. &lt;/p&gt;
+&lt;p&gt;So, what happened? What could turn nearly two decades of indoctrinated fervour over on its head so suddenly?&lt;/p&gt;
+&lt;p&gt;You guessed it: &lt;em&gt;the pandemic&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;For those of you in another time (or maybe unstuck from it altogether), folks my age refer to the global spread of COVID-19 throughout 2020, 2021, 2022, and probably well beyond as “THE Pandemic”. Kind of like how folks alive from 1914-1918 called &lt;a href=&quot;https://en.wikipedia.org/wiki/World_War_I&quot;&gt;that feud between European empires&lt;/a&gt; “The Great War.” I’m sure that sounds hilariously quaint to my future readers.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The pandemic has done a lot of damage to an awful lot of people. Obviously the &lt;a href=&quot;https://www.worldometers.info/coronavirus/coronavirus-death-toll/&quot;&gt;death and long-term illness rates&lt;/a&gt; are a significant factor. Apart from having a couple of friends and colleagues struggling with “&lt;a href=&quot;https://www.webmd.com/lung/what-is-long-covid-pasc#1&quot;&gt;Long COVID&lt;/a&gt;”, I’m very fortunate to have seen very little of that side of the tragedy close up. I’m also very fortunate that I’ve not only been employed the entire time, but have been a part of “&lt;a href=&quot;https://en.wikipedia.org/wiki/Great_Resignation&quot;&gt;The Great Resignation&lt;/a&gt;” (twice, actually) during the pandemic. I’ve even been part of &lt;a href=&quot;https://www.forbes.com/sites/rogertrapp/2021/09/29/the-shift-to-remote-working-is-just-the-start-now-it-must-get-better/?sh=7608c1646982&quot;&gt;that permanent shift to remote work&lt;/a&gt; and have no intentions of wasting any more of my life in someone else’s office. &lt;/p&gt;
+&lt;p&gt;I don’t say any of this to brag. I offer it as context. My own individual experience, at least when it comes to employment, has been the kind of steady and predictable that I know many, many people would give anything to have at this point. I recognize this and do my best to keep it in mind at all times. &lt;/p&gt;
+&lt;p&gt;On a family level, things have been much less stable and reliable. My wife was laid-off in the first few weeks of the pandemic in the most callous and inhumane way that could only be dreamed up by a tech company. She has found employment since then (also twice), but it has left a permanent mark. My oldest son started the pandemic as a bright-eyed and promising kindergartner, making friends and learning to navigate the social world. Now, he’s in second grade and struggling, like most kids his age, with the constant shifts back-and-forth from online learning at home, to stripped-down antisocial school in person. My youngest has thankfully been in a home daycare the entire time, which has stayed open as much as the province of Ontario has allowed - but even he is struggling with basics like potty training and pronunciation because his parents are so burned out and struggling to get through the days.&lt;/p&gt;
+&lt;p&gt;Extended family and social circles have been a broad range of experiences. From layoffs, to underemployment, to collapsing small businesses, to mental health crisis, burnout, and extreme isolation - things have been dark. &lt;/p&gt;
+&lt;p&gt;I’m writing all this to paint a picture of the world we’re currently in and the absolute shit-storm we’ve been living through. To put it mildly: things haven’t been great.&lt;/p&gt;
+&lt;h2&gt;So, how does this lead to an apathetic outlook of politics?&lt;/h2&gt;
+&lt;p&gt;In times like these, while people are struggling - burned out, exhausted, barely (if at all) surviving - we should be able to rely on the vision and leadership of the people we elect to represent us. This is what emergency funds and government bodies are meant to handle. Day-to-day socio-economic functioning in “normal” times of lesser crisis can basically be run on autopilot; but the desperate times are when we must be able to rely on the people in power to see us through. At least, that’s the story we’ve been sold time and time again - from Churchill addressing the UK during long nights of blitzkrieg, to Obama selling “hope” and pushing for universal healthcare as a path to recovering from the previous great recession.&lt;/p&gt;
+&lt;p&gt;Obviously, politicians are human beings too (allegedly, at least). As such, they deserve the same compassion and understanding that we all do when it comes to struggling through the defining crisis of this decade (so far). They very likely also have friends and family who are suffering, sick, and dying. They may stumble and make a few miscalculations, but we should trust that they’re doing all they can to get us all back on track, right?&lt;/p&gt;
+&lt;h3&gt;Right?&lt;/h3&gt;
+&lt;p&gt;The “in this together” message carried a lot of weight early on, especially in those first few months of shock and confusion. During those long ago days, we shared schlocky stuff like &lt;a href=&quot;https://www.youtube.com/watch?v=bQK32bwvRuI&quot;&gt;that infamous Imagine video&lt;/a&gt;, because it felt like even the rich and famous were stuck at home like the rest of us. &lt;a href=&quot;https://en.wikipedia.org/wiki/Saturday_Night_Live_at_Home&quot;&gt;Late night television worked from home&lt;/a&gt; for a little while, while comedians produced &lt;a href=&quot;https://en.wikipedia.org/wiki/Saturday_Night_Live_at_Homehttps://en.wikipedia.org/wiki/Bo_Burnham:_Inside&quot;&gt;ground-breaking specials from the confines of a single room&lt;/a&gt;. Even an &lt;a href=&quot;https://www.ctvnews.ca/politics/pm-trudeau-plans-to-keep-working-from-home-1.4871202&quot;&gt;unshaven and shaggy-haired Trudeau was giving press conferences from his front steps&lt;/a&gt;. For once, it felt like the rich and powerful were on the same level as the rest of us. Sure, they weren’t stuck working for minimum wage and &lt;a href=&quot;https://nypost.com/2021/09/09/anti-mask-karen-fired-over-viral-grocery-store-coughing-video/&quot;&gt;being screamed and coughed at by maskless Karens&lt;/a&gt; - but they were making adjustments for the situation at hand!&lt;/p&gt;
+&lt;h3&gt;Right…?&lt;/h3&gt;
+&lt;p&gt;And that’s pretty much where the pandemic stopped for the ruling class. Once masks came into the picture, while lockdowns were still in full strength for most of us, our politicians were free to continue flying, travelling, and attending global events. And the wealthy were too, of course. Pretty soon, the most realistic televised depiction of the pandemic was coming from &lt;a href=&quot;https://www.indiewire.com/2021/08/succession-season-3-ignores-covid-wealthy-people-1234660723/&quot;&gt;shows about rich people that chose to ignore it altogether&lt;/a&gt;. While mandating vaccines became the debate topic du jour leading into that 2021 election, many of us were still struggling to access a first shot. By now, it has become obvious that &lt;a href=&quot;https://www.ctvnews.ca/canada/so-many-angry-people-experts-say-online-conversation-around-trucker-convoy-veering-into-dangerous-territory-1.5754580&quot;&gt;the stick-over-carrot approach to vaccines has been failing&lt;/a&gt; for a variety of reasons - yet politicians, news reports, and public tastemakers can’t (or won’t) see this. The pandemic has been in the past for them for so long at this point that they literally can’t understand why people are still angry, exhausted, and feeling left behind. &lt;/p&gt;
+&lt;h2&gt;“We’re all in this together” has quickly become “what the fuck is wrong with you?”&lt;/h2&gt;
+&lt;p&gt;I’m not saying that vaccines are bad or that the folks raging against them are entirely justified, mind you. I am only trying to illustrate the level of nuance, compassion, empathy, and understanding that many of us have to exercise on a daily basis while making tough decisions about what’s best for ourselves, our families, and the communities we’re a part of. The burden of this grey-area on each individual is too much to bear - and it’s causing much of the stress and burnout we’re all slogging through. Respecting everyone around you as a living, breathing human being with thoughts, feelings, fears, and their own bundles of trauma, and treating them with dignity and compassion is exhausting! It is absolutely the right thing to do - and arguably something we should always be doing - but it doesn’t make it any less of a pile of stress. It is also the thing we are supposed to be able to look to our leaders to model and display as an example for all of us.&lt;/p&gt;
+&lt;p&gt;But this isn’t the case for politicians. From their bird’s-eye-view of the pandemic as an event in past, everything is a clean divide between party lines. It doesn’t matter what each person in the wider public thinks - they’re either right or wrong on an ideological level and deserve acceptance or scorn as result. Forget the incurable rifts between families or incalculable impact of deaths and illness. Don’t mind the generations of trauma that will need to be processed and treated. Who cares about the extreme burnout and mental health risks of low-wage workers, teachers, parents, and others who have borne the brunt of this pandemic! None of it matters to a political class who has been shielded from all of this by party lines and a thick layer of public money. &lt;/p&gt;
+&lt;p&gt;This has gone considerably off track and you can certainly see that I, like all of us, am still working through a lot at this stage of the pandemic. I am fucking exhausted. Every day, I get to feel like a complete failure as a parent, partner, employee, and person in the world - and I have it easy compared to many!&lt;/p&gt;
+&lt;p&gt;I’ve stopped believing in politics as a solution to our situation because it has become increasingly obvious that we live in a failed state. Politicians and the political class exist only to reinforce the status quo - regardless of their party or stated ideology. They have no imagination or vision of a future - and a complete lack of will or desire to dream anything up. Generations of nothing but the same, as we teeter back-and-forth between two brands of mayonnaise, has left me with little energy to get worked up over the next hand-off between the red and blue logos. &lt;/p&gt;
+&lt;p&gt;I have much, &lt;em&gt;much&lt;/em&gt; more to say on the lack of vision or imagination in politics, but this piece has gone on for long enough. Take care of one another. Focus on the family, friends, and community around you and ignore the empty suits, selling snake oil. The future is people, and our only path forward is together - even if we don’t agree on anything.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Making stops along the way]]></title><description><![CDATA[We’re getting into that summer weather, finally, without another 0-degree day in the forecast for the next few months. Summer signals a few…]]></description><link>http://belwerks.com/making-stops-along-the-way/</link><guid isPermaLink="false">http://belwerks.com/making-stops-along-the-way/</guid><pubDate>Sun, 06 Jun 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;We’re getting into that summer weather, finally, without another 0-degree day in the forecast for the next few months. Summer signals a few important things every year. For one, it means I’ve made it through the lulls of winter and lows of Smarch, from March to May - full of teases of sun and warmth, but always happy to slap you around with a few more weeks of sub-zero.&lt;/p&gt;
+&lt;p&gt;A good friend made a half-joke on Twitter recently about how much the weather has unexpectedly come to rein over his mood as he ages - and I can’t agree more.&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;
+&lt;p&gt;we don&apos;t talk enough about how getting older means becoming way more at the whims of the weather&lt;/p&gt;
+&lt;p&gt;brought to you by my realization that I feel like shit today because it&amp;#39;s......cloudy outside&lt;/p&gt;&lt;a href=&quot;https://twitter.com/mikesbarnes/status/1395480146916876310?ref_src=twsrc%5Etfw&quot; target=&quot;_blank&quot;&gt;@mikesbarnes&lt;/a&gt;
+&lt;/blockquote&gt;&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;p&gt;With the warm weather and sunny days, summer also means energy. I have the energy to tackle projects, get back to more running, and spend quality time with the kids without being (as) completely exhausted by every bit of effort. Having the energy to do more than just barely survive means I have the energy to care again - to read and absorb more about topics I care about but can’t always budget the emotional, cognitive, or physical energy to put into.&lt;/p&gt;
+&lt;p&gt;Summer also means &lt;strong&gt;The Tragically Hip&lt;/strong&gt;. They kicked this one off with a &lt;a href=&quot;https://thehip.com/pages/saskadelphia&quot;&gt;new album of thought-lost tracks&lt;/a&gt; just in time for the May 2-4 weekend and it’s already a national treasure. The &lt;a href=&quot;https://musiccanada.com/charts/2021-05-31/#albums:~:text=The%20Tragically%20HipSaskadelphia&quot;&gt;Canadian charts agree&lt;/a&gt;, too. My vinyl copy is currently lost somewhere in a Canada Post warehouse, like the crated Ark at the end of Raiders. Fortunately, on my recent push to collect &lt;strong&gt;The Hip&lt;/strong&gt;’s albums on vinyl, I have my beloved copy of &lt;em&gt;Fully Completely&lt;/em&gt; to get the summer started.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 69.65811965811966%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAQP/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABQpK9zZxgj//EABsQAAMAAgMAAAAAAAAAAAAAAAECAxIhABEj/9oACAEBAAEFAkmvAmmkQZ94Zas3p//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGn/8QAFhAAAwAAAAAAAAAAAAAAAAAAACAx/9oACAEBAAY/AiL/AP/EABkQAQEBAQEBAAAAAAAAAAAAAAERACExYf/aAAgBAQABPyH0QdGmB0UdMgJNXKvzLXu//9oADAMBAAIAAwAAABCcH//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxDCTt//xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAgEBPxCj/8QAGxABAQADAAMAAAAAAAAAAAAAAREAITFBYbH/2gAIAQEAAT8QcUgLHdPVwxh4LOiYvY8SaxjEqVSuqYLfiUHB3H7g6qITfCcz/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/8fe7cbd49cf406deaeb963817c39f5a7/a85df/fully-completely.webp 234w,
+/static/8fe7cbd49cf406deaeb963817c39f5a7/2cd4d/fully-completely.webp 468w,
+/static/8fe7cbd49cf406deaeb963817c39f5a7/6c1b3/fully-completely.webp 935w,
+/static/8fe7cbd49cf406deaeb963817c39f5a7/3f082/fully-completely.webp 1271w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/8fe7cbd49cf406deaeb963817c39f5a7/60be2/fully-completely.jpg 234w,
+/static/8fe7cbd49cf406deaeb963817c39f5a7/d586f/fully-completely.jpg 468w,
+/static/8fe7cbd49cf406deaeb963817c39f5a7/ea0e1/fully-completely.jpg 935w,
+/static/8fe7cbd49cf406deaeb963817c39f5a7/6b72f/fully-completely.jpg 1271w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/8fe7cbd49cf406deaeb963817c39f5a7/ea0e1/fully-completely.jpg&quot;
+            alt=&quot;Album art and vinyl copy of The Tragically Hip&amp;#39;s 1993 Fully Completely&quot;
+            title=&quot;Album art and vinyl copy of The Tragically Hip&amp;#39;s 1993 Fully Completely&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I love music, but I frequently find myself dazing out to lyrics. I’ll have a few stick in my head, but they rarely grab me like the instrumentation does. Gord Downie’s lyrics aren’t like this. They hook me and dig right in. The man’s poetry has always caught me like he’s fishing for dinner, rather than catch-and-release. Songs like “Courage (for Hugh MacLennan)” grab me in a way I’ve seldom encountered with other music. I love following Gord’s web of references and influences - and I have a growing shelf of Hugh MacLennan paperbacks to prove it!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.51282051282051%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABOw2JdWDDf//EABwQAQACAQUAAAAAAAAAAAAAAAEAAgMREhMhIv/aAAgBAQABBQI8OLp1lXdVUOS0/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAECEf/aAAgBAwEBPwG5xmM//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAESMf/aAAgBAgEBPwHUUj//xAAbEAACAgMBAAAAAAAAAAAAAAAAAQJhESFBgf/aAAgBAQAGPwKhx9Royy4HD//EAB0QAAICAwADAAAAAAAAAAAAAAERACFBUWExcfH/2gAIAQEAAT8hVCfiRsQyRLy7+ymSN1EPoMIUbqPIy6cn/9oADAMBAAIAAwAAABCYP//EABgRAAIDAAAAAAAAAAAAAAAAAAABIVHw/9oACAEDAQE/EJBaxD//xAAZEQACAwEAAAAAAAAAAAAAAAAAMQERUbH/2gAIAQIBAT8Qtrjhof/EACAQAQABAgYDAAAAAAAAAAAAAAERACExQVFxkaFhwfD/2gAIAQEAAT8QJLESsz7mNa0OseHp2VK7aAxohkyu5nFOSg0804cw80rsBuXMa9zX/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/a2297a3905598c0d22133b68883af06b/a85df/maclennan-books.webp 234w,
+/static/a2297a3905598c0d22133b68883af06b/2cd4d/maclennan-books.webp 468w,
+/static/a2297a3905598c0d22133b68883af06b/6c1b3/maclennan-books.webp 935w,
+/static/a2297a3905598c0d22133b68883af06b/c3385/maclennan-books.webp 1212w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/a2297a3905598c0d22133b68883af06b/60be2/maclennan-books.jpg 234w,
+/static/a2297a3905598c0d22133b68883af06b/d586f/maclennan-books.jpg 468w,
+/static/a2297a3905598c0d22133b68883af06b/ea0e1/maclennan-books.jpg 935w,
+/static/a2297a3905598c0d22133b68883af06b/ed55a/maclennan-books.jpg 1212w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/a2297a3905598c0d22133b68883af06b/ea0e1/maclennan-books.jpg&quot;
+            alt=&quot;Shelf of paperback spines, featuring Hunter S. Thompson, Margaret Atwood, Kurt Vonnegut Jr., and three books from Hugh MacLennan&quot;
+            title=&quot;Shelf of paperback spines, featuring Hunter S. Thompson, Margaret Atwood, Kurt Vonnegut Jr., and three books from Hugh MacLennan&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This time around, “Looking For a Place to Happen” was the track that grabbed me. I’ve liked the starting verse for years, since first hearing it:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Got a job &lt;br /&gt;
+I explore &lt;br /&gt;
+I follow every little whiff &lt;br /&gt;
+and I want my life to smell like this &lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And, of course, the main chorus:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Looking for a place to happen &lt;br /&gt;
+making stops along the way&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I love the picture painted of a person who isn’t just exploring, but who is free to wander, follow whims (or whiffs), and search out a place that grabs them. Pair that with the “making stops along the way” line, and I start to feel that kind of connection I haven’t had since “Courage”.&lt;/p&gt;
+&lt;p&gt;Seriously - you can ask my running buddy how much of a 15km run I recently spent talking his ear off about &lt;em&gt;The Watch that Ends the Night&lt;/em&gt; and that &lt;a href=&quot;http://www.hipmuseum.com/hugh.html#:~:text=Paraphrased%20directly%20from%20the%20below%20passage%20in%20%22The%20Watch%20That%20Ends%20The%20Night,%22%20this%20verse%20is%20a%20modern%20%22Carpe%20Diem%22%20for%20MacLennan%20and%20embodies%20the%20message%20in%20%22Courage:%22&quot;&gt;beautiful “human tragedy” verse borrowed by Downie&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 63.67521367521368%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADEElEQVQ4yz2TzUsUcRzGZ+f9fXd2dtdxdR1NbdVtq91t29yytexFU1EJktBeWKhDRQcpxBSLoi4FFiRYh27RJSKICDpEFHTpFvRP9A90fHp2lA5fZn5vn+/zzDw/QTJMKIYGmSXpLmTdY9l8z0DS+jjvcl2PSta6OFdnHYaoHkBM3QNRKfKZh6inuNeEIBtWBFCMEI47gZR/CW58EopZ5MH+CCLrFhTdgKQOQtQarBEIWpWVj6CCOoBYS4DhQJCoSNQyPFBD2r+BXLCOVPIadOsw50qE7iUwzveWQjbQR7i/wipHymJqL2EhRMMj0IYQo1TF6EI6dRkDPc9R3fMGlaHX2DfwFJ5/BqpdopU0QSqhgzCdOY6PEFiibVpWCwTuiixHQNU8CMOuIBss0fJxKsrA9+bQnV2F551HPDkF2cwQqMCw6vBSSzDdJjTzAvceJXiIMCrU21g+BC95GaY9RptNdAaL6Gifwe7uJVQKm9ib34SfXmDnRKRQMxtIB4/gBxsw4w+o9CwhQ1SY2wEGEJzEDDqyt9A4+AFHy+9x8tA3nKh+xZWzf3Gq8R2GO0+FXqTQdGaR7dpCqvMlHH8DitUkpBZ9w5iW408KIZi0GYbrOFb/jFLxEa2PI9c+i+nRHzh17Cdsf2nHskzgJILcC2RyW7C9VSahpXCYwG5WgJiR4Te0ynC8UQz030d/zwr6wgso9N3BaPUjquV3cNIrkK0gUqjbJ+Fn1pBIrcFwbkG1Fmibf13v27bMzDKHbaQKSHh1lAZfob7/LWGfMD7yBcWhNarLMwUOgRqjNAaXkUqkbsOOr7LBdUKnuVbhDyps25YNhV1kHkpgX/4u5id+4+r8HyxM/UJv9zluEqJbImkyVY0jGz5DR88G0h0PkUivQ3cWoVlTjNRpxJRaK9hK1F3UJKhmEmFuFuXiMgb7mxz7nG9dSQL1VtMskplFdO56jLbwCfzsPST8m3C9a4zeRe4do0JNYXc1ikWMKgRZgCCyJIHjViPz/7qkibx+Iu0Ow29fYXyWCVuE5c5GKiWthn9HcGimsH2XjwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/527d4e69fdd536d212a24cabc2d9451d/a85df/courage-still.webp 234w,
+/static/527d4e69fdd536d212a24cabc2d9451d/2cd4d/courage-still.webp 468w,
+/static/527d4e69fdd536d212a24cabc2d9451d/6c1b3/courage-still.webp 935w,
+/static/527d4e69fdd536d212a24cabc2d9451d/65773/courage-still.webp 1228w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/527d4e69fdd536d212a24cabc2d9451d/25b21/courage-still.png 234w,
+/static/527d4e69fdd536d212a24cabc2d9451d/6ff8b/courage-still.png 468w,
+/static/527d4e69fdd536d212a24cabc2d9451d/5929e/courage-still.png 935w,
+/static/527d4e69fdd536d212a24cabc2d9451d/a4092/courage-still.png 1228w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/527d4e69fdd536d212a24cabc2d9451d/5929e/courage-still.png&quot;
+            alt=&quot;Gord Downie, bathed in shadows blue light, singing &amp;quot;there&amp;#39;s no simple explanation&amp;quot;&quot;
+            title=&quot;Still from the [video for &amp;#39;Courage (for Hugh MacLennan)&amp;#39;](https://youtu.be/FhpezwGtDEg?t=114) as Gord Downie hits that brillant passage from the novel that helped inspire the song.&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Still from the &lt;a href=&quot;https://youtu.be/FhpezwGtDEg?t=114&quot;&gt;video for ‘Courage (for Hugh MacLennan)’&lt;/a&gt; as Gord Downie hits that brillant passage from the novel that helped inspire the song.&lt;/p&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Summer also brings my birthday at the end of July. Another year means I spend some time reflecting on the person I am, I’d like to be, and the one I’ve mostly left behind. “Making stops along the way”, for me, helps sum up something which has taken most of my life to realize, acknowledge, and start to lean into. I love to explore. I love to follow every little whiff. And while I don’t always know where I’m going or what I want out of life, I certainly make many stops along the way. For me, the fun of life is to figure things out - even if it hurts, leads down dark paths, or just takes a really long time. I take the long way around with just about everything. I like to think of it as the scenic route.&lt;/p&gt;
+&lt;p&gt;There’s a reason I dropped out of university after one year. I don’t learn from sitting in a big room and being told about the world. Passive knowledge is not for me. It might be a cognitive limitation, but it’s something I’ve learned to accept and live with. There’s a reason why I’ve excelled at agency and consulting work, too - I like quickly learning about new worlds, people, industries, audiences, and then moving on when I’m done. This is just me and I’m working on making the best of it.&lt;/p&gt;
+&lt;p&gt;So, with all this in mind, I naturally wanted to learn more about Gord’s influences and intentions with this particular song. I knew &lt;a href=&quot;https://www.youtube.com/watch?v=nfKr-D5VDBU&quot;&gt;Jacques Cartier is named as the explorer&lt;/a&gt;, and there are &lt;a href=&quot;https://www.lyrics.com/lyric/26822957/Looking+For+a+Place+to+Happen&quot;&gt;references to people showing up and sticking around&lt;/a&gt;, but that was about it. If you &lt;a href=&quot;http://www.hipmuseum.com/looking.html&quot;&gt;look into the meaning yourself&lt;/a&gt;, you’ll find it collides quite heavily with a great, big, awful part of Canada’s colonial history which has &lt;a href=&quot;https://www.cbc.ca/news/canada/british-columbia/tk-eml%C3%BAps-te-secw%C3%A9pemc-215-children-former-kamloops-indian-residential-school-1.6043778&quot;&gt;exploded back into the news in recent weeks&lt;/a&gt; (&lt;strong&gt;content warning for that link&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;And &lt;em&gt;this&lt;/em&gt; is why I love &lt;strong&gt;The Tragically Hip&lt;/strong&gt; and Gord Downie. The band and its front man are a big part of the small collection of things that I still love about Canada. And that’s an increasingly tough thought to wrap my head around - especially while the &lt;a href=&quot;https://www.thecanadianencyclopedia.ca/en/article/genocide-and-indigenous-peoples-in-canada&quot;&gt;country’s heinous ongoing history&lt;/a&gt; (&lt;strong&gt;content warning for that link&lt;/strong&gt;) is back on the front burner.&lt;/p&gt;
+&lt;p&gt;I’m thankful that summer is here. The energy to care about bigger things is back in my life, and once again, &lt;strong&gt;The Hip&lt;/strong&gt; has helped keep me pointed where I want to be and finding the whiff I’d like my home to follow. I’m here, &lt;a href=&quot;https://heynova.io/blog/whats-the-deal-with-colour-contrast/&quot;&gt;I’m writing again&lt;/a&gt;, and I’m looking for my way to make things happen - even if I have made stops along the way.&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/qMpflB1kgNo&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[YouTube doesn't have to be awful]]></title><description><![CDATA[YouTube can be, and mostly is, awful. I’m not talking about the general proliferation of unboxing, reaction, or livestream videos. Those are…]]></description><link>http://belwerks.com/youtube-doesnt-have-to-be-awful/</link><guid isPermaLink="false">http://belwerks.com/youtube-doesnt-have-to-be-awful/</guid><pubDate>Mon, 22 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;YouTube can be, and mostly is, awful. I’m not talking about the general proliferation of unboxing, reaction, or livestream videos. Those are very much not my thing, but a lot of people enjoy them and they’re mostly harmless. I have my enjoyable trash and you have yours.&lt;/p&gt;
+&lt;p&gt;I’m talking about the hate-breeding swamp of grifters and loathsome goons who live in symbiosis with YouTube’s toxic recommendation engine and autoplay funnel.&lt;/p&gt;
+&lt;h2&gt;Was it always like this?&lt;/h2&gt;
+&lt;p&gt;I first encountered YouTube in the summer of 2006. I was up in Toronto for a few days from New Brunswick, looking for an apartment with my soon-to-be roommate, Arthur. On a break between scouring the Annex neighbourhood for listings, he fired up his computer to show me a new video sharing platform. We spent the next couple of hours watching Skinny Puppy music videos and David Lynch interview clips. It was awesome.&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.41025641025641%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC0klEQVQozy2T208aaRiHuQCdGWYGGEBBYECFQQbkICpaQKigdltLwcN6aE23zcaqMem2yZpmG7PNerUX202bvdl0t3u43T/y2dekF2++ZDLfM7/DO56UrhNUVRK6waTfz2wwwNFgg9fnx7y7OuVwp89sJkljYZ7mcoViJoETn+RguM2fnz7y6tULtlqL3Cm7dBcreGwBhlRNgDqTAi5NRDl9MuTi5CHfPdth9FWLWjlHwUkzbcdIRy3cZIJ7d1v8+v6Gs7MTmtUCW2sNeo0qnukvwCk5E4bOjKgcbnX47e05/11f8O7xAwar8/QW8jQrOWrxCOXkFE8PRvz71weur19yeL9Dxq/gyHiyhoElwKRYTpsGeV2js1Tl048X/H65z5udDt+uL7HXLHGv4bKVTZEPW2yu1Ln6/pJvnu7zaKVCKRamFDLxuAFTFKoCFHWmSTkQYK2Y4483zzgbtNisz3HYKrNcsOnXHbbzGWxlnGIswmC7R3N1gXYyRsHUKQa/AC1NwxaFeXnQCIeoTEX55/UxH872eC85vt3v05uf5vFahR0nxYzmp2Yn2B316barrKfjuAGDuaCBxxGbYU0lLcCiNLx2G7oV5Hr3LjdHPX4YrnO6uUrXtRku5tiVlrPybj0xKdGUWChl6UtZbkDHkZFS/ERUBVsKSYlCZyKCqqhsr9/hctTlqF1ns+zQcdO0yzMUIhYpyb1uhViSzGIipjNhURB1WdOPJyNAU/KzJDtD7JvBIF6vj5eXL7i5Oue5FPKgNsdGLcfJ3gaWOBgbHyMumTni6HYzWtEQebGcMTQ8cQEqkqEixahyajJBgf7y80/8/fkj97uLLLsZDh51ON7fQJctGBv34ROo1+dDHfNRCdyum0JCHceTlMt2JCJfNAkrCqbXS0rsPP96xLDX5mF3hUF3mSejHvPFLIrEoYsITQREb+/JkpcyNlU7yaz8FP8DAoZRuYgoY7UAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/c9f7971279375d899dec9d7d2c115a2a/a85df/david-lynch-iphone.webp 234w,
+/static/c9f7971279375d899dec9d7d2c115a2a/2cd4d/david-lynch-iphone.webp 468w,
+/static/c9f7971279375d899dec9d7d2c115a2a/6c1b3/david-lynch-iphone.webp 935w,
+/static/c9f7971279375d899dec9d7d2c115a2a/c9c72/david-lynch-iphone.webp 1279w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/c9f7971279375d899dec9d7d2c115a2a/25b21/david-lynch-iphone.png 234w,
+/static/c9f7971279375d899dec9d7d2c115a2a/6ff8b/david-lynch-iphone.png 468w,
+/static/c9f7971279375d899dec9d7d2c115a2a/5929e/david-lynch-iphone.png 935w,
+/static/c9f7971279375d899dec9d7d2c115a2a/684d2/david-lynch-iphone.png 1279w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/c9f7971279375d899dec9d7d2c115a2a/5929e/david-lynch-iphone.png&quot;
+            alt=&quot;close up of director david lynch&amp;#39;s face with a microphone in front of him and a red curtain in the background&quot;
+            title=&quot;David Lynch famously [dissing film watching on iPhones](https://www.youtube.com/watch?v=wKiIroiCvZ0) circa 2008 (not 2006, I know).&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;David Lynch famously &lt;a href=&quot;https://www.youtube.com/watch?v=wKiIroiCvZ0&quot;&gt;dissing film watching on iPhones&lt;/a&gt; circa 2008 (not 2006, I know).&lt;/p&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;That’s really all it was in the beginning. A cool platform for people to upload, watch, share, and comment on videos. I have &lt;a href=&quot;https://www.youtube.com/watch?v=jOYA5IQbntU&quot;&gt;a few old ones up&lt;/a&gt; since that era for exactly that purpose. It was because of this that YouTube wound up being a massive mainstream phenomenon which inevitably (sadly) led to a huge market valuation and eventual &lt;a href=&quot;https://en.wikipedia.org/wiki/History_of_YouTube#:~:text=On%20October%209%2C%202006%2C%20it,was%20Google&amp;#x27;s%20second%2Dlargest%20acquisition&quot;&gt;acquisition by - who else - Google&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;That’s where the sinister parts really started coming into play. YouTube was originally more-or-less a public service without much of a revenue model. For the first years under Google’s looming shadow, it continued in mostly the same vein. Over time, however, YouTube became an advertising and data harvesting platform, deeply tied into Google’s search, analytics, and marketing monopoly. Whatever primitive recommendation programming existed before, based on titles, tags, length, author, etc., was rewritten and over-engineered in that distinctly “big tech” way that we’re all so painfully familiar with by now. Rather than enjoying some fun stuff from creators around the globe, YouTube’s prime objective became keeping your eyes glued to their parade of ads while logging your habits for as long as possible.&lt;/p&gt;
+&lt;h2&gt;The rabbit hole&lt;/h2&gt;
+&lt;p&gt;This becomes a vicious cycle because content creators know very, very well how this works. They generate regular, scheduled videos of a sweet-spot length to attract as much viewership and circulation as possible while delicately stepping around banned words or subject matter that will get a video de-monetized. YouTube rewards regularly published content of a specific length because it allows them to sell targeted ads to a constant, captive audience. They profit from wider reach and more views because that means more people watching ads and feeding more viewing data into the platform. They punish words and thoughts which generate complaints or controversy for their advertisers.&lt;/p&gt;
+&lt;p&gt;While contributing to the ocean of dumb, trashy content (again, no judgement), it also generates the perfect environment for spewing hate, cooking up reactionary rage, and radicalizing those who are particularly susceptible to that variety of content.&lt;/p&gt;
+&lt;p&gt;The next time YouTube recommends a pile of videos to populate your feed, ask yourself a few questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Do I already agree with what they’re showing me?&lt;/li&gt;
+&lt;li&gt;Am I being fed simple answers to the things that frustrate me?&lt;/li&gt;
+&lt;li&gt;Would my friends and family be uncomfortable with what I’m watching?&lt;/li&gt;
+&lt;li&gt;Is this just making me angry?&lt;/li&gt;
+&lt;li&gt;Is this content giving me a target person or group for my anger?&lt;/li&gt;
+&lt;li&gt;Am I jumping into the comments and duking it out while watching the video?&lt;/li&gt;
+&lt;li&gt;Will I likely share this on other social media platforms?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.82905982905983%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsTAAALEwEAmpwYAAADO0lEQVQozx2S20+bBRiH+w+46IW064meD7SjX/v1RAtdgUJb6Ilj+SgtFlYGtBRWGDgOAgMxIiUQdJpMtywumpjoMr3w1uxWd+OFf8D+kccvu3/fX37P+7yK7coUr3de0H5yTDDnJyck+H6tyYOJKealGq2NPVZ2LzGGW+ij+9i8C6hDZfpFgRW3gbLoZqs0zFIuzUzMg+LzpSqvT1/y7sf/WC3Mk44P8tvDbZYn58jWj2g0d0jmSzg8A0SS95ieqhGOZ+kLB8jEQ0xmUuwujVGdq1FMxFE4TA68LgHB2U2X2UYgGEBwuTAZjLjFEKI/gLJDhdcrEohEMVqtOB3yjuDFYrGgVCnxBUSCAR8WsxnFpODg07TA5mAPiaAckJaYqR2Sqe7QKvRSSEepFiS5fYbt1TJH++tsFYvUyiVmiwvk42ksKi2LyRnGI0kU13cDXBYinKcCjAxlCEtbSJU1+scqnK2WSPSHyabTrJUKvPnzD359ccmQ105fXw9SWWI0NkA9UaR9/4DG+CIKv8GEw2jBoFFjt9oI+cT3yJqOj+nq9uLyiOh0OsIy0uDw8Hs8m8WK4HbjlPGNegM2u5vbaj0f3PpQvuH4J/QU6wjiKJWcxA/Hh+xVylSGUmTkwGZ2moHBUfLLTUrtQ0pXbdbydzgd9/M4F6La6+NksUW9kGJiSJaSLD2gvLrPSLrIyfQib78657PFZZoTJW7kDyjfncIpziPVv+Dg/JrH3/7Cl7k+Xt3Lcj07wMbkCH89eUp7pcr9sSwKi2zT6XSi1GtxKpV4TCZMJjOdajVhUZTN2dBqDYgegW65sVprxNtpxtflRq/WoNNoEUIhLG6Bj1QqFI1Gg8P1dQ6lEpvNdU6PjjmtLrBdr7O395D2wT4tScLemyCeSjEzGuVWh5JcVKQxXyQk37Om0VHTaZntNKC4ubjg7cufeLO+wdebu/z+3XP+vb7h56srnl6e8e6fv3l1coY3P0d/YpTlbD8alZptKc/FySMG5cBvTDaeyWIfma0oItEoA7EYEUGQDfuJRfqIyQgBn5dkKkMqlSbo9yMEe+Rn9uE0W7jjduGR5802O1b9bXpcDlydJsxaDf8DoUzIKzj79wQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/92528f41fe0fd30dd7cc7f83bb88e816/a85df/youtube-recs.webp 234w,
+/static/92528f41fe0fd30dd7cc7f83bb88e816/2cd4d/youtube-recs.webp 468w,
+/static/92528f41fe0fd30dd7cc7f83bb88e816/6c1b3/youtube-recs.webp 935w,
+/static/92528f41fe0fd30dd7cc7f83bb88e816/33667/youtube-recs.webp 1403w,
+/static/92528f41fe0fd30dd7cc7f83bb88e816/1ddeb/youtube-recs.webp 1870w,
+/static/92528f41fe0fd30dd7cc7f83bb88e816/e840a/youtube-recs.webp 2044w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/92528f41fe0fd30dd7cc7f83bb88e816/25b21/youtube-recs.png 234w,
+/static/92528f41fe0fd30dd7cc7f83bb88e816/6ff8b/youtube-recs.png 468w,
+/static/92528f41fe0fd30dd7cc7f83bb88e816/5929e/youtube-recs.png 935w,
+/static/92528f41fe0fd30dd7cc7f83bb88e816/890f5/youtube-recs.png 1403w,
+/static/92528f41fe0fd30dd7cc7f83bb88e816/79feb/youtube-recs.png 1870w,
+/static/92528f41fe0fd30dd7cc7f83bb88e816/34e6b/youtube-recs.png 2044w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/92528f41fe0fd30dd7cc7f83bb88e816/5929e/youtube-recs.png&quot;
+            alt=&quot;grid of dozens of youtube thumbnails&quot;
+            title=&quot;Revealing my recommendations, packed with bread tube, news clips, and late night hosts feels very intrusive.&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Revealing my recommendations, packed with bread tube, news clips, and late night hosts feels very intrusive.&lt;/p&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;h2&gt;So what can you do?&lt;/h2&gt;
+&lt;p&gt;Take the questions above for a start. You may not think of it, but &lt;a href=&quot;https://www.cnbc.com/2018/02/13/youtube-is-causing-stress-and-sexualization-in-young-children.html&quot;&gt;YouTube is a powerful drug&lt;/a&gt;. Many factors, including video editing, music choice, timing of ads and auto-play, clickbait titles, and larger concerns around &lt;a href=&quot;https://www.theverge.com/2018/9/17/17832948/youtube-youtubers-influencer-creator-fans-subscribers-friends-celebrities&quot;&gt;manipulation and parasocial dynamics&lt;/a&gt; all combine to block your brain’s critical thinking abilities and leave you open to the worst kinds of grifters.&lt;/p&gt;
+&lt;p&gt;Here are a few suggestions for keeping your defences up and your brain intact.&lt;/p&gt;
+&lt;h3&gt;Down with autoplay&lt;/h3&gt;
+&lt;p&gt;Disable autoplay. Just do it. &lt;a href=&quot;https://support.google.com/youtube/answer/6327615?hl=en&amp;#x26;co=GENIE.Platform%3DAndroid&quot;&gt;Disable it on every device you use&lt;/a&gt;. If you are going to watch 10 videos in a row, you should be choosing each one of them. They may be garbage, but at least they’ll be your garbage. There are numerous stories, told by people who have recovered from radicalization, of how &lt;a href=&quot;https://www.youtube.com/watch?v=bWLvW3xEIQw&quot;&gt;the autoplay and recommendation funnel took them from cringe compilations down a dark and filthy tunnel&lt;/a&gt; straight to red pilling and incel-dom.&lt;/p&gt;
+&lt;h3&gt;Stay out of the comments&lt;/h3&gt;
+&lt;p&gt;Avoid browsing the comments. There be all variety of trolls and monsters in there. Even the most innocuous children’s videos can be poisoned with a desolate ocean of goons in the comments. For every good one, there’ll be a dozen Russian bots and copy-pasted conspiracy theories.&lt;/p&gt;
+&lt;h3&gt;Suspect recommendations&lt;/h3&gt;
+&lt;p&gt;If YouTube recommends you a video or channel, regard it with utmost suspicion. They will only recommend what is most likely to pull you in for longer and engage more actively. This is not about your interests — it is about your eyeballs and sweet, sweet data.&lt;/p&gt;
+&lt;h3&gt;Challenge assumptions&lt;/h3&gt;
+&lt;p&gt;Are you watching only content you agree with? We’re all trapped in increasingly smaller bubbles based around our interests, fears, experiences, politics, and preferences. Poke your head out for air now and then. Watch something you wouldn’t think you’d like.&lt;/p&gt;
+&lt;h3&gt;Seek outside perspectives&lt;/h3&gt;
+&lt;p&gt;YouTube can be one hell of an empathy machine if you use it right. Like the internet in general, the platform gives you access to the thoughts and experiences of people around the globe. Try it out now and then. Check out videos from creators who don’t match your race, gender, orientation, age, or background. If you’re like me (30-something straight, cis, white male), this step is even more important. If you look like me, you are very likely to encounter a lot of bad ideas online from other guys who look like us.&lt;/p&gt;
+&lt;h3&gt;Beware the explainer&lt;/h3&gt;
+&lt;p&gt;Did you know explainers are their own genre now? You can search and filter by them. The format is flexible but the mechanism is simple: a host or narrator walks through concepts and points, building a rhetorical argument and pulling you in. These can be riddled with deceptive or downright fabricated facts and evidence. They exist to drive a thought into your skull and convince you it is true. YouTube does not require citations or a comprehensive bibliography — there is no fact checking. Much as I hate to admit it, this goes for documentaries too.&lt;/p&gt;
+&lt;h3&gt;Anger leads to hate&lt;/h3&gt;
+&lt;p&gt;I can’t stress this one enough: avoid content that riles you up. If the creator you’re absorbing is raging against a group - especially those less powerful or privileged than they are - tread carefully! This is a gateway through the radicalization funnel that YouTube is uniquely gifted at providing. If you share those same attributes as me (listed a couple of sections back), this is an especially vital one. Historically, when guys who look like us get angry people get hurt.&lt;/p&gt;
+&lt;h3&gt;Curb your conspiracy&lt;/h3&gt;
+&lt;p&gt;No one should have to say this one, but conspiracy theories can lead down dark, toxic, dangerous paths. Always be critical about the wider world, but if your skepticism uncovers a shadowy cabal of international elites, you are well on your way down the rabbit hole.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 64.52991452991454%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC7UlEQVQ4y32Ta0hTYRyHzzxaWn3JlpecWluKVHSBaqn0QQq6INlFdBllN8oizU2dm9dpkhFWUpkuV5ldzxQ1MikrCuliRdetZQVRUVEQVtDXeHqXM4jQDw+/876H/8Pv/OFIAQEByLLMyBEjkCSJbVvX4c41cSs+jScHquht3MOz8wfpravirrmABzU2ei1mehZnkpeegX9gILKfHyqVCrVajeQnDl6RLA+kJT+LX7bdfEvaQn99LZ8rqvhaWEa/1cb34krBLvq3Wvm0bAdVG7OQRCHv3F8Ghf6ipTfNOzfxLiebB/pkHqYYcM1Jpk+0fZWwmrcJaXxIzODLgg28WbKJivWbhxbKPqEpN4dH16/Rbj9KZ309lx0OLleY6DBmotgqcVqLcBaY6TAXYtuZgyT7D9/QlJvN9/d9uO7dwvP4Hi63izfdDl631eB68ZLnfX0883h47vZQXFiCJHY3rNC6PYP+K3aU8ny69pbQWmHkyv5ynJV54lzEpT1WXp4/xM+bCtXFFiH0G0o4kAUb03jf3kBPQw33j9fysKkWt9IosOM+cxjPuTo+djbx40YLlZbCoYWDO8zO2szT29fpam2mu+Uk3coJWqvzce4ycvHYIS7U76VlXzmdddWU5Bm9gn+F8qDQl4aUpdw/c5qeI3ZuNx6j99RZrpbm0lVq5I6i0HlwH8puG7V52RiWJ/+/Q5VPpPK9WDglmnNJS2hesAxnSirORSvoWLuBtrWZtK000CFoy1hDe/oaFk2f8q/MS6AQjRYPY3wXS+fHo5gsOExmmspKOWHKx5G+mobUVOwpqzi+ysDJzHXYxV1iXOyfTx4VFESQwPvXSXGxscyYNo2pcXFER0Whi4klPiGRufp56OcloJ+rZ4YmkpkTNMwSOStCw8ywCGZrotBqIggLD0en1RIlZkNCQpB0kyej1enwZvTEiYSMH0/w2LEEBwf/RR0ayrgwQegA6vAwonVaYkSZSWLGK4uMjESj0fAb1pXxfsiL+xsAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/69939055ecfbac96930165420414a0f2/a85df/fresh-avacado.webp 234w,
+/static/69939055ecfbac96930165420414a0f2/2cd4d/fresh-avacado.webp 468w,
+/static/69939055ecfbac96930165420414a0f2/6c1b3/fresh-avacado.webp 935w,
+/static/69939055ecfbac96930165420414a0f2/05d76/fresh-avacado.webp 1294w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/69939055ecfbac96930165420414a0f2/25b21/fresh-avacado.png 234w,
+/static/69939055ecfbac96930165420414a0f2/6ff8b/fresh-avacado.png 468w,
+/static/69939055ecfbac96930165420414a0f2/5929e/fresh-avacado.png 935w,
+/static/69939055ecfbac96930165420414a0f2/6ac34/fresh-avacado.png 1294w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/69939055ecfbac96930165420414a0f2/5929e/fresh-avacado.png&quot;
+            alt=&quot;taco restaurant sign with spaced apart letters reading &amp;quot;fr e sh a voca do&amp;quot;&quot;
+            title=&quot;You have your makeup tutorials and I have my [FREE SHAVACADOO!](https://youtu.be/8rDNZ5Ebwsc?t=72)&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;You have your makeup tutorials and I have my &lt;a href=&quot;https://youtu.be/8rDNZ5Ebwsc?t=72&quot;&gt;FREE SHAVACADOO!&lt;/a&gt;&lt;/p&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;I could write another couple of thousand words on this, but I’ll leave it here. I enjoy YouTube for a lot of stuff. I use it to learn just about everything related to woodwork - from &lt;a href=&quot;https://www.youtube.com/watch?v=qSbS5zhH7cE&quot;&gt;keeping my fingers intact&lt;/a&gt; to the finer details of &lt;a href=&quot;https://www.youtube.com/watch?v=JcaV5jWpR1k&quot;&gt;crafting my own hand tools&lt;/a&gt;. Everything I’ve learned about the &lt;a href=&quot;https://www.youtube.com/watch?v=EdvM_pRfuFM&quot;&gt;perspectives and life experiences of transgender&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/watch?v=N35D1jko6wA&quot;&gt;non-binary people&lt;/a&gt; has been from YouTube, and I feel I’m growing as a person because of it. Same goes for my scratching-the-surface level of learning about &lt;a href=&quot;https://www.youtube.com/watch?v=3dJ7_7VpR6k&quot;&gt;the experience of black&lt;/a&gt;, brown, &lt;a href=&quot;https://www.youtube.com/watch?v=A6MT6Qg9J7c&quot;&gt;indigenous&lt;/a&gt;, and other people navigating life in modern North America. And then there are plenty of video essays about &lt;a href=&quot;https://www.youtube.com/watch?v=hdxk7dB9yeU&quot;&gt;Zack Snyder’s awful DC universe&lt;/a&gt;, or hours of dashcam crashes and &lt;a href=&quot;https://www.youtube.com/watch?v=8rDNZ5Ebwsc&quot;&gt;Vine compilations&lt;/a&gt;. We all have our trash.&lt;/p&gt;
+&lt;p&gt;YouTube has the power and potential to be a great tool for bettering humanity. We just need to tweak some features, update settings, change the channel, and maybe shut it off once in a while.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Should I stay or should I go?]]></title><description><![CDATA[I quit Twitter a couple of years back. I’d been on it since 2011 and had built a decent-sized community of web developers, accessibility…]]></description><link>http://belwerks.com/should-i-stay-or-should-i-go/</link><guid isPermaLink="false">http://belwerks.com/should-i-stay-or-should-i-go/</guid><pubDate>Wed, 27 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I quit Twitter a couple of years back. I’d been on it since 2011 and had built a decent-sized community of web developers, accessibility advocates, political progressives, and a healthy mix of friends and previous co-workers. Conferences and professional events were fun, as it made for a nice list of new follows and let me reach out to celebrate peoples’ work when I was much, much too nervous to speak with them in person.&lt;/p&gt;
+&lt;p&gt;Like many other things in life, the taint of Trump, wafting up from down South, made Twitter utterly unbearable. Mind you, the platform has been a hive of scum and villainy for years prior - but MAGA really opened the floodgates of people believing (correctly, as it would mostly seem) that they’d no longer be judged for their awful, bigoted views.&lt;/p&gt;
+&lt;p&gt;2016-2018 was a bad stretch for doom scrolling. It impacted my family life, my sleep, my level of irritation and radicalization — really, it was just generally awful all around. So, I left. I deleted my Twitter account and ditched all the community I had been building for years. I also deleted Instagram and locked down privacy and sharing on Facebook.&lt;/p&gt;
+&lt;p&gt;Flash forward to mid 2020, and I’m tuning in for &lt;a href=&quot;https://inclusivedesign24.org/2020/&quot;&gt;#ID24, the annual free online inclusive design conference&lt;/a&gt;. Every single speaker would put up their Twitter handle at the end of a talk and nudge the conversation into that sphere. For the first major time since leaving, I really, really missed the positives of Twitter.&lt;/p&gt;
+&lt;p&gt;So, reluctantly, &lt;a href=&quot;https://twitter.com/belwerks/status/1306425902788685825&quot;&gt;I signed back up&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/belwerks/status/1306426619712679938&quot;&gt;regained my old @belwerks handle&lt;/a&gt; pretty easily. I immediately started following and &lt;a href=&quot;https://twitter.com/belwerks/status/1306739938868817920&quot;&gt;engaging with everyone in attendance or speaking&lt;/a&gt; at the conference. Many of them were people I’d previously followed and/or interacted with on the platform. It was nice.&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 657px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 63.67521367521368%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAABrUlEQVQ4y5WT13qCQBCFeQVjI1ZsUcFeiAqKYoslqOlXyfs/xcnMWkL8LMnFwM4w83N2ZlcKJDT40jXIqTI6wyU6o0fcRHPwxdV/G7MkfviTJQKWoDZ60JoWQpmy8P2KRkmFq+bOkzxxDZ/rDRx7Cn3owHrYoD97QoHArJSTrynjnGCyuAV6CWgaNpoNE7FCC5mKATldgU8p/vqznKIC8o9Vs++N5YUJoExkVe/Dmj+jNZijPZgh23XgrUxQtRawpmsMl6+Yrj5gUH+7kxUGlGuTGSNHxBS1uVNIPWTJ5tjB6v1LbJeLuaA33cBevIgYfxs7b6IVnMvxNg2wRz8zyOc3999LLIll1s0J2vZCKKyZY/FmZY3uBLo1E9NnEKtjJcenYN9nsWV2Irk6YiQ7nK2JdVzTEbqrUkyn9b2wIE3dE8mK4nN2AIYyFUQJxLAIQ8lYCR8dttt0+TDF/SAuAmUqiOWbUEiJUiAjhQzwK+pFRWeAKhIEYFXb3uThoyPwd5B6QqFra+5tcSyQLP4U7NrgBooc122R3E6YBrFfi2Flt3fcXXwqJ7A7gxz7BgVSgD9XlszTAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/2af67181b7a8c2d5d4b1ca9a5264b897/a85df/first-tweet.webp 234w,
+/static/2af67181b7a8c2d5d4b1ca9a5264b897/2cd4d/first-tweet.webp 468w,
+/static/2af67181b7a8c2d5d4b1ca9a5264b897/1728a/first-tweet.webp 657w&quot;
+              sizes=&quot;(max-width: 657px) 100vw, 657px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/2af67181b7a8c2d5d4b1ca9a5264b897/25b21/first-tweet.png 234w,
+/static/2af67181b7a8c2d5d4b1ca9a5264b897/6ff8b/first-tweet.png 468w,
+/static/2af67181b7a8c2d5d4b1ca9a5264b897/92e7a/first-tweet.png 657w&quot;
+            sizes=&quot;(max-width: 657px) 100vw, 657px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/2af67181b7a8c2d5d4b1ca9a5264b897/92e7a/first-tweet.png&quot;
+            alt=&quot;tweet from belwerks reads &amp;quot;I&amp;#39;m back. The accessibility community is too Twitter-centric for me to keep off of Twitter. Does anyone know how to reclaim an old handle?&amp;quot;&quot;
+            title=&quot;First Tweet... for the second time.&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;First Tweet… for the second time.&lt;/p&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;One key difference this time around has been the &lt;a href=&quot;https://twitter.com/belwerks/status/1306591911571066880&quot;&gt;establishment of some ground rules&lt;/a&gt;. I won’t follow companies, political figures, celebrities, or really any other avenues of blatant marketing and promotion. I will also never log into Twitter on my phone again. Or laptop. It stays on my iMac desktop, where I have to go to my study and fire it up on purpose. Same with Facebook.&lt;/p&gt;
+&lt;p&gt;I quickly built up a nice, positive feed of accessibility advocates and inclusive designers. Coincidentally, this also wound up with a progressive-minded feed, as far as political opinions go. Funny how that works, eh? It’s almost like compassion and empathy correlates with a particular side of the political spectrum…&lt;/p&gt;
+&lt;p&gt;It’s still impossible to avoid politics altogether - as I care deeply about human progress, equality, and justice, as well as investigative and ethical journalism. I still have doom scrolling moments - especially &lt;a href=&quot;https://twitter.com/belwerks/status/1346927367651008516&quot;&gt;during the recent insurrection attempt&lt;/a&gt; - but it’s easier to step away when it isn’t on my phone or any other portable device. I recommend the same for everyone else.&lt;/p&gt;
+&lt;p&gt;In light of all this, you might notice a Twitter icon in my social links and a “keep the discussion going” shout-out at the bottom of every post now. I likely won’t respond right away (or at all, if you’re a dick about it), but I’m hoping it’s a good way to keep up the positive, communal aspects of this often-heinous platform.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Pardon my french]]></title><description><![CDATA[This year has been an active one for me when it comes to writing. I’ve been publishing across four different blog platforms, including some…]]></description><link>http://belwerks.com/pardon-my-french/</link><guid isPermaLink="false">http://belwerks.com/pardon-my-french/</guid><pubDate>Thu, 19 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This year has been an active one for me when it comes to writing. I’ve been publishing across four different blog platforms, including some paid — both directly and indirectly. I’m planning to do a nice self-serving piece at the end of 2020 with more on this. Fear not!&lt;/p&gt;
+&lt;p&gt;For now, I’ve hit a fun milestone: I’ve now had my work translated to French! I’ve written in French before, though not really since high school essays, but I’ve never had my (somewhat) professional writing translated until this point. &lt;/p&gt;
+&lt;p&gt;This one started with a mashup of my three-part epic on the importance of accessibility for &lt;a href=&quot;https://medium.com/healthhub-design&quot;&gt;the HealthHub design team blog&lt;/a&gt;. Our marketing team’s copywriter had the thankless task of composing my bumbling text into a single, comprehensible piece, which was posted in English on the HealthHub website’s news/blog section. From there, the tome was sent to a translator who combed through and did their best to make sense of it. It was an interesting process to be involved in each step of — including a couple of editors in the mix too.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://healthhubsolutions.ca/why-accessibility-matters-insights-from-healthhubs-senior-ui-and-accessibility-designer/&quot;&gt;Read the English monolith&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://healthhubsolutions.ca/fr/why-accessibility-matters-insights-from-healthhubs-senior-ui-and-accessibility-designer/&quot;&gt;Read the french version&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Some mutts can't be muzzled]]></title><description><![CDATA[I recently subscribed to Shudder, the streaming video service for horror fans, and it helped remind me of one key aspect of my being: I…]]></description><link>http://belwerks.com/some-mutts-cant-be-muzzled/</link><guid isPermaLink="false">http://belwerks.com/some-mutts-cant-be-muzzled/</guid><pubDate>Mon, 02 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I recently subscribed to &lt;em&gt;Shudder&lt;/em&gt;, the streaming video service for horror fans, and it helped remind me of one key aspect of my being: I friggin’ love horror movies. By the numbers, it is absolutely my favourite genre. &lt;/p&gt;
+&lt;p&gt;Way back in 2007, when my wife and I were first hanging out, one of the first “dates” we had (and I’m using that term very, very loosely) consisted of a stop at Suspect Video — &lt;a href=&quot;https://nowtoronto.com/suspect-video-is-closing-down&quot;&gt;a beloved former staple of Toronto’s Annex neighbourhood&lt;/a&gt; — where we rented &lt;em&gt;Sleepaway Camp&lt;/em&gt; on VHS to watch back at my sketchy Bathurst Street apartment. Many of our dates in those early years involved horror movies. From catching Rob Zombie’s &lt;em&gt;Halloween&lt;/em&gt; remake when it was in theatres, to regular cult screenings at Bloor Cinema, to our annual attendance at &lt;a href=&quot;https://torontoafterdark.com/&quot;&gt;the &lt;em&gt;Toronto After Dark&lt;/em&gt; film festival&lt;/a&gt; (starting at Bloor Cinema and later moving to the big downtown Cineplex), horror movies were an important part of our early years together.&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 720px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABXPoLyzDWT//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMREiL/2gAIAQEAAQUCCjLl98mKTbW7EzJ//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAaEAABBQEAAAAAAAAAAAAAAAAQAAIRITFB/9oACAEBAAY/ArMu4NX/xAAbEAACAwADAAAAAAAAAAAAAAAAAREhQTFhsf/aAAgBAQABPyFDyIKLDoKVt0HnOQTY/9oADAMBAAIAAwAAABDEL//EABcRAQADAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8QyVX/xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8QVRZ//8QAGxABAQEBAQADAAAAAAAAAAAAAREhADFRYYH/2gAIAQEAAT8QNIK0s0++gjbenNeGqjqVjPnziy6NPWXN6AVv53//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/1f6bd499a51401177a468da54ca8bd6c/a85df/toronto-after-dark.webp 234w,
+/static/1f6bd499a51401177a468da54ca8bd6c/2cd4d/toronto-after-dark.webp 468w,
+/static/1f6bd499a51401177a468da54ca8bd6c/fb07f/toronto-after-dark.webp 720w&quot;
+              sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/1f6bd499a51401177a468da54ca8bd6c/60be2/toronto-after-dark.jpg 234w,
+/static/1f6bd499a51401177a468da54ca8bd6c/d586f/toronto-after-dark.jpg 468w,
+/static/1f6bd499a51401177a468da54ca8bd6c/c0c3d/toronto-after-dark.jpg 720w&quot;
+            sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/1f6bd499a51401177a468da54ca8bd6c/c0c3d/toronto-after-dark.jpg&quot;
+            alt=&quot;nighttime crowd gathered outside a hole-in-the-wall bloor cinema with toronto after dark on the marquee&quot;
+            title=&quot;Toronto After Dark crowd lined up outside the Bloor Cinema for [this 2010 summary of the festival](https://www.vimooz.com/2010/08/19/toronto-after-dark-film-festival-2010-winners/).&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Toronto After Dark crowd lined up outside the Bloor Cinema for &lt;a href=&quot;https://www.vimooz.com/2010/08/19/toronto-after-dark-film-festival-2010-winners/&quot;&gt;this 2010 summary of the festival&lt;/a&gt;.&lt;/p&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;The beauty of horror, to me, is the incredible range of styles, sub-genres, stories, and budgets that fit into that bucket. You can be a die-hard fan of peak 80’s era slashers or Italian cannibal exploitation flicks and be completely cold to big budget haunting pictures or the self-shot night vision aesthetic. Your favourite films can be anything from &lt;em&gt;Evil Dead 2&lt;/em&gt; or &lt;em&gt;A Nightmare on Elm Street 2&lt;/em&gt;, to &lt;em&gt;the Conjuring 2&lt;/em&gt; or &lt;em&gt;the Exorcist 2&lt;/em&gt;. Yeah, horror has a lot of sequels. All of this under one big label that many people won’t even consider exploring. But that’s ok — in fact, it makes the genre more fun. Staying in the dark, buried deep away from mainstream blockbusters, is one of the things that makes it fun. &lt;/p&gt;
+&lt;p&gt;I’ve said this in conversation to friends before, and I’m certain I’m not the first person to make this comparison, but horror is the punk rock of movies. &lt;/p&gt;
+&lt;p&gt;Like punk rock, a few dedicated creators can have no budget or experience and yet still manage to put something out into the world that has an impact on people. On the other side, studios can back a massive horror movie or punk band with all the star power, marketing budget, and demographic analysis in the world behind it and have it bomb entirely if it doesn’t click as authentic with the core fans of the genre. &lt;/p&gt;
+&lt;p&gt;There’s another big factor for me that I’m never entirely sure how to describe. “Attitude”, maybe? “Gusto”, perhaps? The “punk attitude” is somewhat synonymous with a Do It Yourself (DIY) approach to everything from clothing and housing, to venues and promotion. Horror fits this in a lot of ways. Look at something like &lt;em&gt;Evil Dead&lt;/em&gt;, or &lt;em&gt;Blair Witch Project&lt;/em&gt;, or &lt;em&gt;Paranormal Activity&lt;/em&gt; — all about as DIY as movies get. That gusto to get some friends together and just get it done. Figure it out along the way. That speaks to me in a big way.&lt;/p&gt;
+&lt;p&gt;There’s more than the DIY side, though. Being a horror filmmaker or member of a punk band slaps you into an immediate box by that industry and the wider world. There’s an assumption that both genres are dumb, or made just for teenagers, or are more about aesthetic than content. Sure, there’s some truth to that. There are plenty of dumb punk bands, just like there are plenty of dumb horror movies. But being lumped in with that underdog lot gives you the freedom to say nothing or everything — all without expectations over your head. You can sing about being bored and jerking off or you can speak to the malaise and apathy that comes from long periods of depression — &lt;a href=&quot;https://www.youtube.com/watch?v=NUTGr5t3MoY&quot;&gt;all with the same pithy lyrics&lt;/a&gt;. Likewise, you can make a weird neon slasher sequel where a nightmare man comes after a high school jock, or you can speak at length about the fear, anxiety, and sense of abandonment that was ripe in the Reagan-era handling of the AIDs epidemic — again, &lt;a href=&quot;https://www.youtube.com/watch?v=xqvrgX2Urug&quot;&gt;all with the same weird movie&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Punk and horror both go as big and bonkers or as small and silent as you want to make them. Both are ripe for thematic exploration buried under a veneer of spraying blood or smashing guitars. Both have managed to keep fighting off the studio money and big budget creep that threatens to strip away all authenticity and meaning time and time again. Both give me renewed hope for film and music with every passing year. &lt;/p&gt;
+&lt;p&gt;There’s exactly one thing in the world that gives me the same feeling as throwing on a random horror flick and settling in for what I’m assuming will be so-so but turns out to be a masterpiece. That came a few weeks ago when I stumbled on &lt;a href=&quot;https://www.youtube.com/watch?v=9QX4bQPw-_w&quot;&gt;a vicious little pub punk band out of Australia called &lt;em&gt;Amyl and the Sniffers&lt;/em&gt;&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 870px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.256410256410255%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABZKZQ5nE//8QAGhABAAIDAQAAAAAAAAAAAAAAAQACAxEiEv/aAAgBAQABBQK1/IZHSx6KnLP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAGhAAAQUBAAAAAAAAAAAAAAAAAQACEBEhYf/aAAgBAQAGPwKytG8iinGP/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFBof/aAAgBAQABPyFb9CHopAi8i00FOiT0TJ//2gAMAwEAAgADAAAAELMv/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAEDAQE/EK1//8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAECAQE/EAyP/8QAHBABAQEAAgMBAAAAAAAAAAAAAREAQVEhMWGx/9oACAEBAAE/EK9cycYO5gnTmvZNdKHUQ0Kz55MVdIQeog/DQkXf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/12c90b90a54464d4b0bc568b20be885c/a85df/amyl-and-the-sniffers.webp 234w,
+/static/12c90b90a54464d4b0bc568b20be885c/2cd4d/amyl-and-the-sniffers.webp 468w,
+/static/12c90b90a54464d4b0bc568b20be885c/ac0cc/amyl-and-the-sniffers.webp 870w&quot;
+              sizes=&quot;(max-width: 870px) 100vw, 870px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/12c90b90a54464d4b0bc568b20be885c/60be2/amyl-and-the-sniffers.jpg 234w,
+/static/12c90b90a54464d4b0bc568b20be885c/d586f/amyl-and-the-sniffers.jpg 468w,
+/static/12c90b90a54464d4b0bc568b20be885c/e9712/amyl-and-the-sniffers.jpg 870w&quot;
+            sizes=&quot;(max-width: 870px) 100vw, 870px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/12c90b90a54464d4b0bc568b20be885c/e9712/amyl-and-the-sniffers.jpg&quot;
+            alt=&quot;amyl winding up to lay a punch on the rest of her bandmates&quot;
+            title=&quot;Photo by Charlie Hardy for [an interview with Amyl and the Sniffers](https://happymag.tv/a-chat-with-amyl-and-the-sniffers/).&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Photo by Charlie Hardy for &lt;a href=&quot;https://happymag.tv/a-chat-with-amyl-and-the-sniffers/&quot;&gt;an interview with Amyl and the Sniffers&lt;/a&gt;.&lt;/p&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;May punk bands and horror films continue to delight and surprise me well past the age where it’s remotely acceptable for me to continue sporting black graphic tees and whatever half-shaved haircut I’ve given myself that month.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Signed by the author]]></title><description><![CDATA[In the last post, I mentioned my great-grandfather, Monte Chase, and his habit of signing his own books in the author’s name. I’ve loved…]]></description><link>http://belwerks.com/signed-by-the-author/</link><guid isPermaLink="false">http://belwerks.com/signed-by-the-author/</guid><pubDate>Mon, 19 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;/what-condition-my-inscription-is-in/&quot;&gt;In the last post&lt;/a&gt;, I mentioned my great-grandfather, Monte Chase, and his habit of signing his own books in the author’s name. I’ve loved that anecdote for a long, long time and always wanted to do something with it. &lt;/p&gt;
+&lt;p&gt;Last year, while on an extended leave from work, I finally put together a short story inspired very loosely by the Skipper’s little idiosyncracy. Mix in my grandmother’s (the Skipper’s daughter) passion for classic films and books, some French-Canadian heritage, and my own love of reading, and I wound up with 2000-or-so words that I’m pretty happy with.&lt;/p&gt;
+&lt;p&gt;Here it is, for your enjoyment:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgP/2gAMAwEAAhADEAAAAaTYbOiDQD//xAAZEAEBAAMBAAAAAAAAAAAAAAACAQADERP/2gAIAQEAAQUC13OctCuTkOsFgTzP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAMBAAMAAAAAAAAAAAAAAAABEQIhMZH/2gAIAQEABj8CjKzjNHuD00/Sdn//xAAaEAADAQEBAQAAAAAAAAAAAAAAARFBITFh/9oACAEBAAE/IatxrYn0NpFcE9XSF08uDJhp6OB+j//aAAwDAQACAAMAAAAQy/8A/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EDCf/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QV//EAB4QAQEAAgICAwAAAAAAAAAAAAERACFBUTGBscHw/9oACAEBAAE/ELhJkhZhEIbEE1iVaGwHzg1sQEvXWpz1hYygUni8fpgEkK0nr6z/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/5a2afcaa5e82f03599270d22fbb9f029/a85df/cozy-library.webp 234w,
+/static/5a2afcaa5e82f03599270d22fbb9f029/2cd4d/cozy-library.webp 468w,
+/static/5a2afcaa5e82f03599270d22fbb9f029/6c1b3/cozy-library.webp 935w,
+/static/5a2afcaa5e82f03599270d22fbb9f029/0b978/cozy-library.webp 1400w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/5a2afcaa5e82f03599270d22fbb9f029/60be2/cozy-library.jpg 234w,
+/static/5a2afcaa5e82f03599270d22fbb9f029/d586f/cozy-library.jpg 468w,
+/static/5a2afcaa5e82f03599270d22fbb9f029/ea0e1/cozy-library.jpg 935w,
+/static/5a2afcaa5e82f03599270d22fbb9f029/22cab/cozy-library.jpg 1400w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/5a2afcaa5e82f03599270d22fbb9f029/ea0e1/cozy-library.jpg&quot;
+            alt=&quot;two comfy old chairs with their backs to a wall of floor to ceiling shelves, packed with books&quot;
+            title=&quot;two comfy old chairs with their backs to a wall of floor to ceiling shelves, packed with books&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Signed by the author&lt;/h2&gt;
+&lt;p&gt;“Ow are your studies, Elise?” Mirabelle cut the silence as she placed two steaming mugs on an antique coffee table and nestled into her worn leather reading chair. She brushed her bouncing grey bangs out of her face and waited for a response.&lt;/p&gt;
+&lt;p&gt;“They’re okay,” Elise smiled politely and turned to meet Mirabelle’s lively, brown eyes. Elise had been scanning the bookshelves and framed photos around her grandmother’s stuffy living room, waiting for the questions to start. She tugged at the battered quilt around her legs, tucking it in to fend off the winter chill.&lt;/p&gt;
+&lt;p&gt;“You are nearly finished,” Mirabelle would not let the quiet come again, “that must be exciting — non?”&lt;/p&gt;
+&lt;p&gt;“I guess, yeah,” Elise considered whether to continue. She picked up her tea and decided to throw her grandmother a line. &lt;/p&gt;
+&lt;p&gt;“Just kinda want it done with,” Elise offered while blowing steam from her mug, “it’s all pretty boring now.”&lt;/p&gt;
+&lt;p&gt;“It can not possibly be all so dull,” Mirabelle jumped in with a tone that immediately felt more judgemental than she intended. She scolded herself as she leaned forward to pluck her mug from the table.&lt;/p&gt;
+&lt;p&gt;“It &lt;em&gt;is&lt;/em&gt;,” Elise muttered before taking a sip. She shifted in her seat, away from her grandmother and back to scanning spines on the bookshelf. Had she already made it to ‘R’ before the last question? That still left far more on the shelf than Elise had ever read; even when she used to love reading.&lt;/p&gt;
+&lt;p&gt;Mirabelle knew she was losing Elise again and it pained her. She and the dark-haired young woman sitting beside her had grown so distant the past few years. She missed the little girl with such a fiery spirit and brown eyes wide enough to drink in every bit of life the world had to offer. Mirabelle was desperate to be a part of her granddaughter’s life again, more than she had failed to with her own children. Her son treated these visits with Elise as charity, and Mirabelle hated the feeling. Now his daughter was doing the same and it ached. She took a long sip and felt like crawling into her mug to hide.&lt;/p&gt;
+&lt;p&gt;“Tell me, what is one thing you are working on?” Mirabelle was grasping.&lt;/p&gt;
+&lt;p&gt;Elise cut short a sigh before Mirabelle caught it, “I have to find a book I’ve connected with and write about what makes it personal and stuff.”&lt;/p&gt;
+&lt;p&gt;“This is fantastic!” Mirabelle lit up. &lt;/p&gt;
+&lt;p&gt;Elise didn’t hide her sigh this time. It drained out of her before she responded.&lt;/p&gt;
+&lt;p&gt;“Except when am I supposed to find time to &lt;em&gt;enjoy&lt;/em&gt; a book?” She felt a bit harsh for the long sigh and the sting it caused her grandmother. &lt;/p&gt;
+&lt;p&gt;“Is the task to enjoy a book,” Mirabelle asked carefully, “or connect with it?”&lt;/p&gt;
+&lt;p&gt;“Same thing,” Elise knew it wasn’t, “and I still don’t have time for it with all the other stuff I have to get done.”&lt;/p&gt;
+&lt;p&gt;“Ave you not found one?” Mirabelle was poised in her seat.&lt;/p&gt;
+&lt;p&gt;“No, I haven’t,” Elise knew she had just thrown her grandmother a lifeline. &lt;/p&gt;
+&lt;p&gt;Mirabelle was up and darting toward her wall of books before Elise could finish lifting her mug for another sip. Elise noticed the worn-down path of carpet her grandmother followed. Mirabelle’s fingers waved in front of the shelf for a second, tracking her target, before locking onto a spine. Elise fell into a rush of memories, watching her grandmother pluck a book from those floor-to-ceiling shelves. She caught herself smiling as Mirabelle swung around.&lt;/p&gt;
+&lt;p&gt;“Ave you read this?” Mirabelle asked as she held out her selection. &lt;/p&gt;
+&lt;p&gt;Elise sat up and reached out for the ancient looking hardcover. She turned the book over, glancing at the back and again at the cover.&lt;/p&gt;
+&lt;p&gt;“I’ve heard of it,” Elise was skeptical, though unsure why, “some guy in like the 50’s hitchhikes across the States.”&lt;/p&gt;
+&lt;p&gt;“Not just any ‘guy’, Elise,” Mirabelle was beaming, “ouvret!”&lt;/p&gt;
+&lt;p&gt;Elise peeled open the front cover and stopped on the first page. A hand-written note was scribbled across the page.&lt;/p&gt;
+&lt;p&gt;“Is this from the author?” Elise scanned the inscription.&lt;/p&gt;
+&lt;p&gt;“Eh ben oui,” Mirabelle sat facing Elise on the edge of her seat, “it is.”&lt;/p&gt;
+&lt;p&gt;Elise flipped back to the cover and pointed at the author’s name, “but it’s not the same.”&lt;/p&gt;
+&lt;p&gt;“Jean-Louis is — was — is real name,” Mirabelle fed the mystery, waiting to hook her granddaughter. &lt;/p&gt;
+&lt;p&gt;“‘Beaulieu’ was your maiden name, right?” Mirabelle nodded.&lt;/p&gt;
+&lt;p&gt;“This is old French,” Elise was mouthing as she worked through the inscription. &lt;/p&gt;
+&lt;p&gt;“Québecois by way of Massachusetts,” Mirabelle smiled. &lt;/p&gt;
+&lt;p&gt;“Is that Latin?” Elise turned the book to face her grandmother.&lt;/p&gt;
+&lt;p&gt;“‘Ic calix!’,” Mirabelle spouted without looking, “something ee used to say.”&lt;/p&gt;
+&lt;p&gt;Elise dropped her hands across the open book and looked up at Mirabelle, “okay, you win, what’s the story?”&lt;/p&gt;
+&lt;p&gt;“Win what?” Mirabelle finished a long sip of tea and feigned coy.&lt;/p&gt;
+&lt;p&gt;Elise furrowed her brow and smirked, “give it up, grand-mère.”&lt;/p&gt;
+&lt;p&gt;“I was your age,” Mirabelle set her mug down, smiled, and sat back in her chair. She paused, drinking-in the memory, “just about to trade school for the world!”&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;“How was it?” Bernard asked his daughter without watching for her response across the bench seat. He held tight to the steering wheel, flicking an eye to his mother’s snowy house shrinking in the rearview mirror. The end of her road was always the worst leg of the trip in this weather. He’d dug this truck out of that ditch more than once over the years.&lt;/p&gt;
+&lt;p&gt;“Fine,” Elise turned to her father with a smile, “actually we had fun.”&lt;/p&gt;
+&lt;p&gt;“Fun?” Bernard couldn’t help but scoff and glance over at Elise to scan for signs of sarcasm. Bernard’s eyes were wide and lively, like his mother’s and his daughter’s, but with a hazel tint that shifted green the more upset he was. Elise caught the green when his eyes snapped her way.&lt;/p&gt;
+&lt;p&gt;“She has some cool stories,” Elise was surprised at herself for being happy. She struggled to think of the last time a smile snuck up on her.&lt;/p&gt;
+&lt;p&gt;“Like what?” Bernard asked with his eyes fixed back on the road.&lt;/p&gt;
+&lt;p&gt;“Just about writers she knew and road trips and stuff,” Elise trailed off. She wanted to keep the details light in hopes that her father would find less to jump on. She never enjoyed his interrogations after a trip to her grandmother’s.&lt;/p&gt;
+&lt;p&gt;Bernard smirked to himself and nodded, “well thank you, El, for spending time with her.”&lt;/p&gt;
+&lt;p&gt;Elise turned and caught a glance from her father.&lt;/p&gt;
+&lt;p&gt;“It means a lot to her,” he delivered before locking his eyes back to the road ahead.&lt;/p&gt;
+&lt;p&gt;“It was fun,” Elise shrugged. She sat up straight and faced forward while her father white-knuckled the wheel around the snowy bend. They had both learned to drive on this road, and she knew it demanded more focus than most she’d encountered since. The cab of the truck was silent except for muffled snow crunching under studded tires and hot air blasting the windshield.&lt;/p&gt;
+&lt;p&gt;“What’s in there?” Bernard asked after a long breath of relief, gesturing to the bag at Elise’s feet. They’d finally cleared the worst of the route.&lt;/p&gt;
+&lt;p&gt;“She lent me a couple of books to help with an assignment,” Elise reached for the bag. &lt;/p&gt;
+&lt;p&gt;“You be careful with those,” Bernard warned, “she loves her books more than she ever loved her kids.”&lt;/p&gt;
+&lt;p&gt;Elise rolled her eyes. She had heard this pity party from him many times before and wasn’t falling for it. She extracted the ancient looking hardcover her grandmother had first pulled down from the shelf. &lt;/p&gt;
+&lt;p&gt;“This one’s signed,” she ran her fingers over the cover.&lt;/p&gt;
+&lt;p&gt;“Are the others signed too?” Bernard asked in a neutral tone.&lt;/p&gt;
+&lt;p&gt;“Dunno,” Elise shrugged and leaned forward to check the bag. She pulled two more books from it and cracked each cover, scanning the first few pages. &lt;/p&gt;
+&lt;p&gt;“Oh, cool,” her face lit up, “they are!”&lt;/p&gt;
+&lt;p&gt;“Mm-hm,” Bernard uttered through a strained, tight-lipped grin.&lt;/p&gt;
+&lt;p&gt;“I bet she has great stories behind these,” Elise scanned over the inscriptions.&lt;/p&gt;
+&lt;p&gt;“I bet she does,” Bernard let his tone go, coming off more bitter and flippant to his daughter than he should have. &lt;/p&gt;
+&lt;p&gt;One at a time, Elise closed the books and stacked them in her lap. She sighed loudly and rolled her head to the side to stare at her father. Bernard caught the move in his peripheral and glanced back at Elise.&lt;/p&gt;
+&lt;p&gt;“What?” He played dumb with his eyes returned to the road.&lt;/p&gt;
+&lt;p&gt;“I know you two don’t get along or whatever,” Elise projected in a tone she meant as calm and collected, “but you’re always telling me how important it is to connect with her.”&lt;/p&gt;
+&lt;p&gt;Bernard nodded and inhaled a “yuh.”&lt;/p&gt;
+&lt;p&gt;“Now we finally find a way to do just that,” Elise dropped the calm exterior and decided to go for the throat, “and you’re acting like a jealous asshole.”&lt;/p&gt;
+&lt;p&gt;Bernard took a long breath, determined to leave his daughter’s comment alone. She knew how to sting him. He took another breath. She turned away from him and crossed her arms. She could see his effort and decided to let the exchange cool off. They both sat staring out the windshield for a long moment, pouting.&lt;/p&gt;
+&lt;p&gt;“Those books,” Bernard spoke softly, “are they all the same author?”&lt;/p&gt;
+&lt;p&gt;“No,” Elise responded flatly and flipped the stack up to double check the spines.&lt;/p&gt;
+&lt;p&gt;“Take a look at the inscriptions,” Bernard tilted his head to gesture toward the books.&lt;/p&gt;
+&lt;p&gt;“I &lt;em&gt;have&lt;/em&gt;,” Elise shot back without budging.&lt;/p&gt;
+&lt;p&gt;“Take another look,” Bernard glanced at Elise and caught her eye, “humour me.”&lt;/p&gt;
+&lt;p&gt;Elise made a show of flipping open the cover of each book and wobbling her head on her shoulders. &lt;/p&gt;
+&lt;p&gt;“Notice the handwriting?” Bernard asked without acknowledging her performance.&lt;/p&gt;
+&lt;p&gt;“It’s,” Elise broke off the sass and paused for a closer inspection, “it’s the same.” She wasn’t sure what to feel. Was it betrayal? Frustration? Amusement? She settled on a curt “&lt;em&gt;hm&lt;/em&gt;.”&lt;/p&gt;
+&lt;p&gt;Bernard nodded and inhaled another “yuh.”&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;“Ow are your studies, Elise?” Mirabelle asked as she stood up from her vegetable garden with a full basket. Her back yard was small, but brimming with lush garden beds. Packed in the back, a small frosted glass greenhouse glowed green with all the life inside. Elise always loved her grandmother’s gardens and longed to have her own when she made it to the home owning point in life. &lt;/p&gt;
+&lt;p&gt;“They’re all done, grand-mère!” Elise beamed.&lt;/p&gt;
+&lt;p&gt;“Your father tells me you are not taking university?” Mirabelle was placing her gloves and gardening tools away in the tiny shed, next to the greenhouse.&lt;/p&gt;
+&lt;p&gt;“I’m taking a year first,” Elise held the vegetable basket, “trading school for the world.”&lt;/p&gt;
+&lt;p&gt;Mirabelle smiled at her granddaughter. She closed the shed and held out her hand for the basket. Elise obliged.&lt;/p&gt;
+&lt;p&gt;“That is smart of you,” Mirabelle walked the narrow path between overflowing garden beds, towards her home, “what are your plans?”&lt;/p&gt;
+&lt;p&gt;“I haven’t decided,” Elise looked down at her grandmother’s bare feet in the beaten down grass. She blushed at the thought of judgement to come.&lt;/p&gt;
+&lt;p&gt;“That is even more smart of you,” Mirabelle opened the door and stepped inside, rubbing her feet on the worn mat. Mirabelle set her basket on the counter and started the kitchen tap. She hummed as she began rinsing the vegetables. Elise stepped into the adjoining living room and picked up her bag.&lt;/p&gt;
+&lt;p&gt;“I brought your books back,” Elise started as she stepped back into the kitchen.&lt;/p&gt;
+&lt;p&gt;“Un moment,” Mirabelle spoke over the tap, “nearly finished.”&lt;/p&gt;
+&lt;p&gt;Elise pulled the three hardcover books from her bag and set them on the table. Mirabelle dried her hands and carefully folded the towel before returning it to the oven door’s handle. She turned, smiling at her granddaughter. &lt;/p&gt;
+&lt;p&gt;“Did this elp with your assignment?” Mirabelle asked, picking up the ancient hardcover. Her smile settled to a content smirk as she caressed the book’s spine.  &lt;/p&gt;
+&lt;p&gt;“Kind of,” Elise shrugged, “but I didn’t do it on that one.”&lt;/p&gt;
+&lt;p&gt;Mirabelle broke from her trance and looked up at her granddaughter, almost hurt.&lt;/p&gt;
+&lt;p&gt;“After hearing your stories,” Elise dug in the bag and fished out a battered paperback, “I found this in a shop.”&lt;/p&gt;
+&lt;p&gt;“Oh, I adore her!” Mirabelle lit back up as Elise held the cover to face her, “but I ave not read this.”&lt;/p&gt;
+&lt;p&gt;“It’s about a journalist in the 70’s who goes looking for her father at their old family cottage in Québec,” Elise handed the book to her grandmother, “you can have it.”&lt;/p&gt;
+&lt;p&gt;Mirabelle carefully took the book, turning it over in her hands to examine the front and back. She cracked open the cover to glance inside. Her fingertips fell on the first blank page, where she found a note in the handwriting of a young woman. She took a moment to trace along the inscription with her fingers. It was signed by the author, but Mirabelle recognized the handwriting. Years’ worth of cards, art, and poems from Elise were tucked among cluttered shelves and pinned on busy walls around her home. That same bubbly script adorning all of it.&lt;/p&gt;
+&lt;p&gt;“Merci,” Mirabelle whispered as she looked up at Elise with a glint in her eye.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What condition my inscription is in]]></title><description><![CDATA[I buy a lot (read: far, far too many) of used books. It doesn’t take much to convince myself I’m supporting small local used bookstores (my…]]></description><link>http://belwerks.com/what-condition-my-inscription-is-in/</link><guid isPermaLink="false">http://belwerks.com/what-condition-my-inscription-is-in/</guid><pubDate>Mon, 28 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I buy a lot (read: far, far too many) of used books. It doesn’t take much to convince myself I’m supporting small local used bookstores (my favourite being &lt;a href=&quot;https://www.facebook.com/kwbookstore/&quot;&gt;&lt;strong&gt;KW Bookstore&lt;/strong&gt; in Kitchener&lt;/a&gt;), so I rarely step out of one without at least one purchase. My favourite books to buy are older paperbacks printed in that magical era between the mid 1960s to the early 80s — especially anything with &lt;a href=&quot;https://www.penguinrandomhouse.ca/series/PNG/penguin-orange-collection&quot;&gt;an orange &lt;strong&gt;Penguin&lt;/strong&gt; spine&lt;/a&gt;. Something about the size, the paper stock, typesetting, cover and spine design, smell, and texture just speaks to me. The more creases in the spine, folded page corners, and scribbled notes throughout, the more I feel a connection with anyone who has thumbed through this copy over the past 50 years.  &lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 63.24786324786324%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwABBP/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/aAAwDAQACEAMQAAABMekCQba7/8QAGRABAQEAAwAAAAAAAAAAAAAAAQIREDEz/9oACAEBAAEFAmRHeDyp2K7/AP/EABYRAQEBAAAAAAAAAAAAAAAAAAACEf/aAAgBAwEBPwFlP//EABYRAQEBAAAAAAAAAAAAAAAAAAABIf/aAAgBAgEBPwGMf//EABsQAAEEAwAAAAAAAAAAAAAAAAABEBIxUWGh/9oACAEBAAY/AlTDWT0S43//xAAaEAADAQEBAQAAAAAAAAAAAAAAARExIVFh/9oACAEBAAE/IYEtVEXE78ZfeiVTuYNVhN4Fko//2gAMAwEAAgADAAAAEOv/AP/EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8Q3AhDt//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8Q03Cj/8QAHxABAQABAwUBAAAAAAAAAAAAAREAMUGRIWFxocHx/9oACAEBAAE/EHfDuU/JgG3YBZ9xNeluAswpFipZdtfE4xpIFQggyLq85dRAp7c//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/2c32f0e9bbaa82ce26baff1f036c27ef/a85df/books-on-shelf.webp 234w,
+/static/2c32f0e9bbaa82ce26baff1f036c27ef/2cd4d/books-on-shelf.webp 468w,
+/static/2c32f0e9bbaa82ce26baff1f036c27ef/6c1b3/books-on-shelf.webp 935w,
+/static/2c32f0e9bbaa82ce26baff1f036c27ef/68fc1/books-on-shelf.webp 1200w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/2c32f0e9bbaa82ce26baff1f036c27ef/60be2/books-on-shelf.jpg 234w,
+/static/2c32f0e9bbaa82ce26baff1f036c27ef/d586f/books-on-shelf.jpg 468w,
+/static/2c32f0e9bbaa82ce26baff1f036c27ef/ea0e1/books-on-shelf.jpg 935w,
+/static/2c32f0e9bbaa82ce26baff1f036c27ef/6c738/books-on-shelf.jpg 1200w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/2c32f0e9bbaa82ce26baff1f036c27ef/ea0e1/books-on-shelf.jpg&quot;
+            alt=&quot;three wall-length shelves filled with paperback novels of assorted ages, wear, and sizes&quot;
+            title=&quot;While it&amp;#39;s nice to have books up on a shelf, I&amp;#39;ll admit I&amp;#39;m well overdue for sorting.&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;While it’s nice to have books up on a shelf, I’ll admit I’m well overdue for sorting.&lt;/p&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;The real score, for me, is when the novel I’ve picked comes with a faded inscription pencilled-in on the first blank page. I don’t mean an autograph from the author, though I do also enjoy collecting those, but from the person who once gifted the book to someone in their life. &lt;/p&gt;
+&lt;p&gt;I recently started reading a copy of James Joyce’s &lt;em&gt;“A Portrait of the Artist as a Young Man”&lt;/em&gt; that I had bought years ago. Inside the front cover read the following in quick but legible ink:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tricia, &lt;br /&gt;
+Hope you enjoy this book as much as I did. &lt;br /&gt;
+lots of love, &lt;br /&gt;
+Amer&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 69.23076923076923%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABeiwhkg//xAAaEAADAAMBAAAAAAAAAAAAAAAAAQIDBBIy/9oACAEBAAEFAo1UKVLcpmKupv2f/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAARAAAhEi/9oACAEBAAY/AurTMQL/AP/EABoQAAIDAQEAAAAAAAAAAAAAAAABESFhQVH/2gAIAQEAAT8h7h4qH+KhjLRq6kWj9Ef/2gAMAwEAAgADAAAAEPQv/8QAFREBAQAAAAAAAAAAAAAAAAAAEQD/2gAIAQMBAT8QWb//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAADAQADAAAAAAAAAAAAAAAAAREhQWFx/9oACAEBAAE/EHEn0bAiEGiTQqaEoYJJx6jB5GkTk//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/9785315e73ceb8d25820593431260a04/a85df/inscription.webp 234w,
+/static/9785315e73ceb8d25820593431260a04/2cd4d/inscription.webp 468w,
+/static/9785315e73ceb8d25820593431260a04/6c1b3/inscription.webp 935w,
+/static/9785315e73ceb8d25820593431260a04/68fc1/inscription.webp 1200w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/9785315e73ceb8d25820593431260a04/60be2/inscription.jpg 234w,
+/static/9785315e73ceb8d25820593431260a04/d586f/inscription.jpg 468w,
+/static/9785315e73ceb8d25820593431260a04/ea0e1/inscription.jpg 935w,
+/static/9785315e73ceb8d25820593431260a04/6c738/inscription.jpg 1200w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/9785315e73ceb8d25820593431260a04/ea0e1/inscription.jpg&quot;
+            alt=&quot;paperback open to the inside of the front cover with the quoted inscription written inside&quot;
+            title=&quot;paperback open to the inside of the front cover with the quoted inscription written inside&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Who is Tricia? Who is Amer? What is their relationship? Why did Amer enjoy this novel so much? Did Tricia find the same joy in it? How did her copy wind up at a used bookstore in Kitchener, Ontario, Canada?&lt;/p&gt;
+&lt;p&gt;Like any life-long reader, I’m fond of stories about people. As someone who attempts to write my thoughts and experiences in an engaging way, I’m also taken by the mysteries and stories that happen around us every day. A long-forgotten inscription inside the cover of a cheap 70’s paperback plays to all of these things in a big way. It connects me to the people who’ve cracked this book’s spine in the past and helps me imagine future folks who will see my inscriptions in gifted books to friends and family. &lt;/p&gt;
+&lt;p&gt;Paperback books are one of those few environmentally unfriendly pleasures that I cannot give up. I enjoy used books, thrift stores, antiques, vinyl records, and anything else that’s passed through generations of human hands for many of the same reasons — the visceral connection to humanity. Call me overly-romantic, but nothing else connects us to the personal stories within history quite like experiencing the same arrangement of atoms in physical space that however many other living, breathing humans have handled over the years. &lt;/p&gt;
+&lt;p&gt;Basically, what I’m saying is that I probably won’t be moving over to eBooks anytime soon.&lt;/p&gt;
+&lt;p&gt;My great grandfather, the enigmatic Monte “Skipper” Chase, had a habit of inscribing his books and signing the author’s name as though they were close friends. This tidbit of family history has long struck me as one of those amazing experiences that can only come from human beings. The combination of care, pride, ego, passion, and awareness of our own mortality is something that only comes from our strange, horrifying, beautiful species. &lt;/p&gt;
+&lt;p&gt;Maybe I’m reading way, way too far into this. Maybe not. Maybe I’m waiting for the day I crack the cover of a paperback in a used bookstore and see an inscription made out to Monte Chase. Or, maybe I’m trying way too hard to defend my unrepentant hipsterdom.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Find your :focus-within]]></title><description><![CDATA[I love writing CSS. SASS is fun, LESS is (or was?) too, but to me, nothing beats making magic with plain old vanilla CSS. I will happily…]]></description><link>http://belwerks.com/find-your-focus-within/</link><guid isPermaLink="false">http://belwerks.com/find-your-focus-within/</guid><pubDate>Mon, 07 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I love writing &lt;strong&gt;CSS&lt;/strong&gt;. &lt;a href=&quot;https://sass-lang.com/&quot;&gt;&lt;strong&gt;SASS&lt;/strong&gt; is fun&lt;/a&gt;, &lt;a href=&quot;http://lesscss.org/&quot;&gt;&lt;strong&gt;LESS&lt;/strong&gt; is (or was?) too&lt;/a&gt;, but to me, nothing beats making magic with &lt;a href=&quot;https://www.w3.org/Style/CSS/Overview.en.html&quot;&gt;plain old vanilla &lt;strong&gt;CSS&lt;/strong&gt;&lt;/a&gt;. I will happily write to a &lt;code class=&quot;language-text&quot;&gt;style.css&lt;/code&gt; file any day rather than muck around with &lt;a href=&quot;https://cssinjs.org/?v=v10.4.0&quot;&gt;&lt;strong&gt;CSS-in-JS&lt;/strong&gt;&lt;/a&gt; for &lt;a href=&quot;https://styled-components.com/&quot;&gt;component encapsulation&lt;/a&gt;. That quackery is for the birds — or the full stack devs who are terrified of (or do not understand) the &lt;strong&gt;C&lt;/strong&gt; in Cascading Style Sheets (CSS).&lt;/p&gt;
+&lt;p&gt;Around the time I started as a developer, &lt;a href=&quot;http://amyhissom.com/HTML5-CSS3/history.html#5&quot;&gt;&lt;strong&gt;CSS3&lt;/strong&gt; was made official&lt;/a&gt; and varied support began rolling out across the browser-scape. &lt;a href=&quot;https://mashable.com/2012/07/17/history-html5/&quot;&gt;&lt;strong&gt;HTML5&lt;/strong&gt; was in a similar position&lt;/a&gt;, with &lt;a href=&quot;https://stackoverflow.com/questions/14429061/html5-shim-vs-shiv&quot;&gt;polyfils to bridge many of the gaps&lt;/a&gt;. It was a magical time, &lt;a href=&quot;https://alistapart.com/article/responsive-web-design/&quot;&gt;with responsive design taking over in a big way&lt;/a&gt; and rigid styles using tables or &lt;a href=&quot;https://www.cnn.com/2011/11/09/tech/mobile/flash-steve-jobs/index.html&quot;&gt;Flash going up in smoke&lt;/a&gt;. Sure, we were still a couple of years out from flexbox (&lt;a href=&quot;https://alistapart.com/article/the-story-of-css-grid-from-its-creators/&quot;&gt;let alone grid&lt;/a&gt;) and plugged our front ends full of absolute positioning and floats ahoy; but at least we were finally looking at the web as a more fluid and flexible place!&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50.854700854700866%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//aAAwDAQACEAMQAAAB60tqm6DE/8QAGhAAAgIDAAAAAAAAAAAAAAAAAgMAECIjMf/aAAgBAQABBQJmILZshcCv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFxABAAMAAAAAAAAAAAAAAAAAAQAgIf/aAAgBAQAGPwLCBX//xAAbEAABBAMAAAAAAAAAAAAAAAARAAEQMSFBYf/aAAgBAQABPyF1YDRCMDl+1NtH/9oADAMBAAIAAwAAABBvH//EABYRAQEBAAAAAAAAAAAAAAAAAAEQMf/aAAgBAwEBPxAQMn//xAAWEQEBAQAAAAAAAAAAAAAAAAABEEH/2gAIAQIBAT8QRdn/xAAbEAEAAgMBAQAAAAAAAAAAAAABESEAEDFxUf/aAAgBAQABPxAingCuHv3CZpXKWjrj7gLQTV6//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/a75b23091d7b71150c9f0058f11a76d0/a85df/brad-frost-mobile-first.webp 234w,
+/static/a75b23091d7b71150c9f0058f11a76d0/2cd4d/brad-frost-mobile-first.webp 468w,
+/static/a75b23091d7b71150c9f0058f11a76d0/6c1b3/brad-frost-mobile-first.webp 935w,
+/static/a75b23091d7b71150c9f0058f11a76d0/33667/brad-frost-mobile-first.webp 1403w,
+/static/a75b23091d7b71150c9f0058f11a76d0/1ddeb/brad-frost-mobile-first.webp 1870w,
+/static/a75b23091d7b71150c9f0058f11a76d0/56b60/brad-frost-mobile-first.webp 2000w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/a75b23091d7b71150c9f0058f11a76d0/60be2/brad-frost-mobile-first.jpg 234w,
+/static/a75b23091d7b71150c9f0058f11a76d0/d586f/brad-frost-mobile-first.jpg 468w,
+/static/a75b23091d7b71150c9f0058f11a76d0/ea0e1/brad-frost-mobile-first.jpg 935w,
+/static/a75b23091d7b71150c9f0058f11a76d0/f2f40/brad-frost-mobile-first.jpg 1403w,
+/static/a75b23091d7b71150c9f0058f11a76d0/8f0bd/brad-frost-mobile-first.jpg 1870w,
+/static/a75b23091d7b71150c9f0058f11a76d0/9bea7/brad-frost-mobile-first.jpg 2000w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/a75b23091d7b71150c9f0058f11a76d0/ea0e1/brad-frost-mobile-first.jpg&quot;
+            alt=&quot;mobile-first responsive web design title with a collection of phones, tablets, and computers that all read &amp;#39;web&amp;#39; on the screen&quot;
+            title=&quot;Brad Frost&amp;#39;s illustration of the wide range of devices that can access the web at the head of his [influential &amp;quot;mobile-first responsive web design&amp;quot; blog post from 2011](https://bradfrost.com/blog/post/mobile-first-responsive-web-design/)&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Brad Frost’s illustration of the wide range of devices that can access the web at the head of his &lt;a href=&quot;https://bradfrost.com/blog/post/mobile-first-responsive-web-design/&quot;&gt;influential “mobile-first responsive web design” blog post from 2011&lt;/a&gt;&lt;/p&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;I’ve been an avid user of &lt;strong&gt;CSS&lt;/strong&gt;’ &lt;a href=&quot;https://css-tricks.com/pseudo-class-selectors/&quot;&gt;pseudo classes&lt;/a&gt;, &lt;a href=&quot;https://css-tricks.com/child-and-sibling-selectors/&quot;&gt;sibling selectors&lt;/a&gt;, and &lt;a href=&quot;https://css-tricks.com/almanac/selectors/a/attribute/&quot;&gt;attribute styling&lt;/a&gt; since those days. They’ve consistently been a fantastic set of tools for building specificity with flexibility — and without having to go overboard with classes and IDs. The feeling I get from a nice, clean, &lt;strong&gt;DRY&lt;/strong&gt; (Don’t Repeat Yourself) chain of pseudo-sibling-attribute styling to reveal error messages, balance columns, or punch up typography has barely faded over the years. &lt;/p&gt;
+&lt;p&gt;Sometimes, like anyone playing with code tricks, I’ll get too clever for my own good and make a less-than-semantic mess. &lt;a href=&quot;https://github.com/stephenbelyea/F1yForms/blob/master/src/components/F1yForms/index.js#L69&quot;&gt;Reordering an input, label, and error message structure&lt;/a&gt;, for instance, to take advantage of the input’s &lt;code class=&quot;language-text&quot;&gt;aria-invalid&lt;/code&gt; attribute for styling the siblings. Or, and this one happens a lot, cramming way too much into a &lt;code class=&quot;language-text&quot;&gt;button&lt;/code&gt; in order to have a nice focus state within a card layout. &lt;/p&gt;
+&lt;p&gt;This latter issue came to an abrupt and amazing end for me this week. I found myself on MDN, &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button&quot;&gt;my prefered source of documentation for &lt;strong&gt;HTML&lt;/strong&gt;, &lt;strong&gt;CSS&lt;/strong&gt;, and vanilla &lt;strong&gt;JS&lt;/strong&gt;, checking out &lt;code class=&quot;language-text&quot;&gt;button&lt;/code&gt; attributes&lt;/a&gt; for the building of a component. From there, I hopped into &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes#Index_of_standard_pseudo-classes&quot;&gt;a listing of available pseudo classes&lt;/a&gt;. That’s when I found it. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within&quot;&gt;&lt;strong&gt;:focus-within&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The :focus-within CSS pseudo-class represents an element that has received focus or contains an element that has received focus. In other words, it represents an element that is itself matched by the :focus pseudo-class or has a descendant that is matched by :focus.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Wait, so there’s a way to target a container that ”&lt;em&gt;contains&lt;/em&gt; an element that has received focus”!?&lt;/p&gt;
+&lt;p&gt;No longer would I need to fight the visual desire to have a card show a focus state against the semantic value of limiting the block level content of a &lt;code class=&quot;language-text&quot;&gt;button&lt;/code&gt;. No longer would I have to pollute my component logic with &lt;code class=&quot;language-text&quot;&gt;mouseEnter&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;mouseLeave&lt;/code&gt; listeners to pass a class to the parent.&lt;/p&gt;
+&lt;p&gt;I was blown away! I used it right away in a prototype I was whipping up for HealthHub, and I’ll continue using it until the day I stop touching &lt;strong&gt;CSS&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 33.76068376068376%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/9oADAMBAAIQAxAAAAHWKZ5BD//EABkQAQACAwAAAAAAAAAAAAAAAAMAAQIRE//aAAgBAQABBQKzLfMomJ1f/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAGB/9oACAEDAQE/AcV//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhAAAwAAAAAAAAAAAAAAAAAAABAi/9oACAEBAAY/AlJ//8QAGxAAAgMAAwAAAAAAAAAAAAAAAREAITFRYZH/2gAIAQEAAT8hwEPYNTjy+YOpS7n/2gAMAwEAAgADAAAAEPQv/8QAGREAAwADAAAAAAAAAAAAAAAAAAERMVGR/9oACAEDAQE/EKtODK4P/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAExEVH/2gAIAQIBAT8Qx9FKf//EAB0QAAICAgMBAAAAAAAAAAAAAAERACExQVFxkaH/2gAIAQEAAT8QFUR6N9jP2EJBo8WeoEkE5vJnmf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/6fbae8be09f5e22a81e2393b8b99fa4a/a85df/patient-com-card.webp 234w,
+/static/6fbae8be09f5e22a81e2393b8b99fa4a/2cd4d/patient-com-card.webp 468w,
+/static/6fbae8be09f5e22a81e2393b8b99fa4a/6c1b3/patient-com-card.webp 935w,
+/static/6fbae8be09f5e22a81e2393b8b99fa4a/33667/patient-com-card.webp 1403w,
+/static/6fbae8be09f5e22a81e2393b8b99fa4a/1ddeb/patient-com-card.webp 1870w,
+/static/6fbae8be09f5e22a81e2393b8b99fa4a/66b4c/patient-com-card.webp 2200w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/6fbae8be09f5e22a81e2393b8b99fa4a/60be2/patient-com-card.jpg 234w,
+/static/6fbae8be09f5e22a81e2393b8b99fa4a/d586f/patient-com-card.jpg 468w,
+/static/6fbae8be09f5e22a81e2393b8b99fa4a/ea0e1/patient-com-card.jpg 935w,
+/static/6fbae8be09f5e22a81e2393b8b99fa4a/f2f40/patient-com-card.jpg 1403w,
+/static/6fbae8be09f5e22a81e2393b8b99fa4a/8f0bd/patient-com-card.jpg 1870w,
+/static/6fbae8be09f5e22a81e2393b8b99fa4a/2d6e2/patient-com-card.jpg 2200w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/6fbae8be09f5e22a81e2393b8b99fa4a/ea0e1/patient-com-card.jpg&quot;
+            alt=&quot;patient communication card with images of common patient requests translated into english and japanese&quot;
+            title=&quot;patient communication card with images of common patient requests translated into english and japanese&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;For me, there are two key takeaways from finding something like this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;CSS&lt;/strong&gt; is still exciting. Learning new tricks still packs a punch and trying them out still keeps me engaged.&lt;/li&gt;
+&lt;li&gt;It never, ever hurts to take a look at documentation. Even if you’ve been doing something one way for years, there’s always a better (or at least different) method out there.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I say “&lt;em&gt;take a look at documentation&lt;/em&gt;”, because that’s where I found this piece. Sure, I’ve searched CSS Tricks or Stack Overflow for “&lt;em&gt;how to do x in y&lt;/em&gt;” hundreds (maybe even thousands, by now) of times and found a way to tackle the problem. And that’s great. Blogs (&lt;em&gt;ahem&lt;/em&gt;, like this one) are great for discovering cool tricks too. But there’s something just so satisfying about double checking documentation and happening upon something you didn’t even know you were looking for. I will happily take a fully functional native method over all the “clever” wizardry in the world any day of the week. &lt;/p&gt;
+&lt;p&gt;If you’re feeling unenthused about any element of your work, it never hurts to take a moment to top up your passion. &lt;a href=&quot;https://medium.com/@belwerks/inspiration-maintenance-1949f521302c&quot;&gt;I’ve written about “inspiration maintenance” before&lt;/a&gt;, and even I can frequently forget the value of it. Sometimes it’s a book. Sometimes a conference talk. Sometimes a blog post or LinkedIn share. And sometimes it’s just following an extra “related” link out of curiosity after you’ve already found the documentation you were looking for.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[“Why is accessibility (and editing!) important?” - Part 3]]></title><description><![CDATA[Part three of my trilogy of posts on “why is accessibility important?” is now available to read. I’m happy with the way I closed it off, and…]]></description><link>http://belwerks.com/why-is-accessibility-and-editing-important-part-3/</link><guid isPermaLink="false">http://belwerks.com/why-is-accessibility-and-editing-important-part-3/</guid><pubDate>Mon, 31 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Part three of my trilogy of posts on “why is accessibility important?” is now available to read. I’m happy with the way I closed it off, and even happier I took the time to rewrite my initial draft (partly why it’s been a month since part two). &lt;/p&gt;
+&lt;p&gt;I’d like to share with y’all something that generally doesn’t get saved. I held onto it this time because I knew the revised direction was going to take a different turn. Here’s my unlisted first draft of part 3: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@belwerks/draft-why-is-accessibility-important-part-3-9a0549c02b53&quot;&gt;Draft | “Why is accessibility important?” - Part 3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can read my passion in there, as it is laid on thickly enough to have gained sentience and start chewing on the scenery all by itself. You can probably also read a heavy tone of “if you don’t care, you should just go fuck yourself.” That’s basically how &lt;a href=&quot;https://medium.com/@carlosperez&quot;&gt;Carlos Perez, my intrepid Director of Design at HealthHub and fellow Medium writer&lt;/a&gt;, more-or-less put it. It’s a fair (possibly even generous) assessment, and I’m happy he was caring enough to read it over and deliver that feedback. He also gave me more helpful ideas, in case you were wondering, including keeping my intended audience in focus, and offering methods for that audience to help their peers and collegues care about accessibility as well. &lt;/p&gt;
+&lt;p&gt;Without further ado, here’s the reworked part 3:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/healthhub-design/why-is-accessibility-important-part-3-8ad5b42d1bee&quot;&gt;“Why is accessibility important?” - Part 3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can see the change in direction take place basically after the first paragraph. In fact, that first bit is essentially all that survived the first draft. I’m happy with this version and, importantly, it leaves the “Assuming ability” section from the draft free to be explored in a subsequent piece as it’s own argument for compliance as a lesser to considerate, purposeful design. &lt;/p&gt;
+&lt;p&gt;One fun element of the direction change (namely the focus on how to help your team learn to care), is that I wound up digging up &lt;a href=&quot;https://web.archive.org/web/20170423224310/http://belwerks.com/&quot;&gt;an older version of belwerks.com on the WayBack Machine&lt;/a&gt; to find some posts about &lt;a href=&quot;https://twitter.com/ecentricarts/status/727530838556954624&quot;&gt;lunch and learn talks back at ecentricarts&lt;/a&gt;. I may wind up doing some throwback posts from older written material that I’ve put together over the years. It’s been long enough that I’ve been working in web that it isn’t totally self-serving, right?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Woodworking for fun and sanity]]></title><description><![CDATA[In October, it will have been four years since my wife and I packed up our lives, our dog, our cat, and our son to leave Toronto for good…]]></description><link>http://belwerks.com/woodworking-for-fun-and-sanity/</link><guid isPermaLink="false">http://belwerks.com/woodworking-for-fun-and-sanity/</guid><pubDate>Tue, 25 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In October, it will have been four years since my wife and I packed up our lives, our dog, our cat, and our son to leave Toronto for good and move to Kitchener. There’s a lot to love about this city, and I’m happy we made the move. Toronto had long since priced us out of any chance of buying a home, and the cost of rent (for a measly one-and-den condo) was leaving us in the negative month-by-month even as a two-income household. Our first residence in Kitchener was a three bedroom townhouse (for less than our condo rental in Toronto) with a garage. &lt;/p&gt;
+&lt;p&gt;Having a garage for the first time since leaving my parents’ home in New Brunswick was a big step. This finally enabled me to jump into two of my passions that I had been putting off due to space and funds for many years: motorcycles and woodwork. &lt;/p&gt;
+&lt;p&gt;Woodwork has been a great hobby the past four years because it ticks a lot of boxes for me. By designing my own pieces, I work through rusty math skills and keep up with drawing. By being too cheap to fully jump into expensive tools and all the fun toys, I’m forced to get creative with jigs and workarounds to finish whatever piece I’m working on. And since we moved from a series of tiny apartments into a townhouse, there’s no shortage of furniture and storage needed that I’d rather build than buy. &lt;/p&gt;
+&lt;p&gt;After a little over a year in that first rented townhouse, we borrowed and scraped together enough funds to buy a townhouse of our own in Kitchener. Now that we’d had a garage for a year, it was considered a non-negotiable item in our short list of requirements. I’m happy we got it, because a fixer-upper comes with no shortage of repairs and upgrades to do. These allow me to continue building my skills in planning, designing, budgeting, and all the techniques involved in slowly working my way through each project. &lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.41025641025641%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQD/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAVS0gDSMPR//xAAbEAACAwADAAAAAAAAAAAAAAABAgMEERIUIf/aAAgBAQABBQJVGTHjM1uNCp8sk9l1G//EABYRAQEBAAAAAAAAAAAAAAAAAAABAv/aAAgBAwEBPwHNV//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/AWf/xAAZEAACAwEAAAAAAAAAAAAAAAAAARAREoH/2gAIAQEABj8CHRWW+w1H/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAERITFBgf/aAAgBAQABPyF4RCSyzlK1Bi2Ws4cV4cnh/9oADAMBAAIAAwAAABCgP//EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAIAQMBAT8QgxHdP//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAgEBPxAUxJv/xAAcEAACAwADAQAAAAAAAAAAAAABEQAhMVFhcdH/2gAIAQEAAT8QACU+hAvQbAEM5+zDqBSTXsoiQw5UzUaQEK4n/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/45f0d259d807901a4fd3d500e747ef1a/a85df/desk-side-by-side.webp 234w,
+/static/45f0d259d807901a4fd3d500e747ef1a/2cd4d/desk-side-by-side.webp 468w,
+/static/45f0d259d807901a4fd3d500e747ef1a/6c1b3/desk-side-by-side.webp 935w,
+/static/45f0d259d807901a4fd3d500e747ef1a/33667/desk-side-by-side.webp 1403w,
+/static/45f0d259d807901a4fd3d500e747ef1a/1ddeb/desk-side-by-side.webp 1870w,
+/static/45f0d259d807901a4fd3d500e747ef1a/f3ff0/desk-side-by-side.webp 1920w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/45f0d259d807901a4fd3d500e747ef1a/60be2/desk-side-by-side.jpg 234w,
+/static/45f0d259d807901a4fd3d500e747ef1a/d586f/desk-side-by-side.jpg 468w,
+/static/45f0d259d807901a4fd3d500e747ef1a/ea0e1/desk-side-by-side.jpg 935w,
+/static/45f0d259d807901a4fd3d500e747ef1a/f2f40/desk-side-by-side.jpg 1403w,
+/static/45f0d259d807901a4fd3d500e747ef1a/8f0bd/desk-side-by-side.jpg 1870w,
+/static/45f0d259d807901a4fd3d500e747ef1a/af8d6/desk-side-by-side.jpg 1920w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/45f0d259d807901a4fd3d500e747ef1a/ea0e1/desk-side-by-side.jpg&quot;
+            alt=&quot;early sketch of a desk and shelves next to the finished install&quot;
+            title=&quot;Early iPad sketch of a desk and shelves next to yesterday&amp;#39;s final installation, complete with my assistant. You&amp;#39;ll notice a few changes due to available materials, additional storage, and cost of pre-manufactured components.&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Early iPad sketch of a desk and shelves next to yesterday’s final installation, complete with my assistant. You’ll notice a few changes due to available materials, additional storage, and cost of pre-manufactured components.&lt;/p&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;I imagine some folks would find this all to be tedious, time-consuming, or an overall chore. Maybe it is to some extent. There are certainly some projects which drag on, that I’d rather skip. But overall, I love it. The feeling of accomplishment at standing back to check out the closet shelves you’ve just installed. The pride in showing off your newly refinished kitchen bar. It scratches that itch of starting, sticking through, and finishing a project to my own standards and knowing I was able to learn and get better at something along the way.&lt;/p&gt;
+&lt;p&gt;If you’re feeling bogged down or uncreative from the daily grind of work and routine, pick a small wood project and try building something with your hands! You don’t need a ton of expensive tools (I only just bought a tablesaw six months ago and had been making do without for three-and-a-half years prior) or materials. With a hammer, hand saw, sandpaper and nails, you can build just about anything simple — from birdhouses to bookshelves. These don’t make much mess and can be built in as small a space as an apartment balcony. It is never too early or too late to get started! &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.82051282051282%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMBAgQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAHKx1weTnGp/8QAGBABAQEBAQAAAAAAAAAAAAAAAQIRAwD/2gAIAQEAAQUCAfSbcjkcDKDkPet//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAwEBPwGm4f/EABgRAAMBAQAAAAAAAAAAAAAAAAABAhNB/9oACAECAQE/AXS4ZUf/xAAbEAACAgMBAAAAAAAAAAAAAAAAARFBEBIxYf/aAAgBAQAGPwIcUizrNUp9x//EABsQAQADAQADAAAAAAAAAAAAAAEAESFRMdHx/9oACAEBAAE/IRVo18ytjMqe/J7RF0mjEnVS/OZk/9oADAMBAAIAAwAAABCIH//EABcRAQEBAQAAAAAAAAAAAAAAAAEAIRH/2gAIAQMBAT8QF3ZPL//EABgRAAIDAAAAAAAAAAAAAAAAAAAhAREx/9oACAECAQE/EJC0Xs//xAAcEAACAwADAQAAAAAAAAAAAAABEQAhMUFRkWH/2gAIAQEAAT8QOA7l9b3DlELgzQvyDrsirQeSAvRvkJwPkz1nUcFOjEOf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/0d186d995d460bbc58160a0931667e59/a85df/woodwork-books.webp 234w,
+/static/0d186d995d460bbc58160a0931667e59/2cd4d/woodwork-books.webp 468w,
+/static/0d186d995d460bbc58160a0931667e59/6c1b3/woodwork-books.webp 935w,
+/static/0d186d995d460bbc58160a0931667e59/33667/woodwork-books.webp 1403w,
+/static/0d186d995d460bbc58160a0931667e59/1ddeb/woodwork-books.webp 1870w,
+/static/0d186d995d460bbc58160a0931667e59/f3ff0/woodwork-books.webp 1920w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/0d186d995d460bbc58160a0931667e59/60be2/woodwork-books.jpg 234w,
+/static/0d186d995d460bbc58160a0931667e59/d586f/woodwork-books.jpg 468w,
+/static/0d186d995d460bbc58160a0931667e59/ea0e1/woodwork-books.jpg 935w,
+/static/0d186d995d460bbc58160a0931667e59/f2f40/woodwork-books.jpg 1403w,
+/static/0d186d995d460bbc58160a0931667e59/8f0bd/woodwork-books.jpg 1870w,
+/static/0d186d995d460bbc58160a0931667e59/af8d6/woodwork-books.jpg 1920w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/0d186d995d460bbc58160a0931667e59/ea0e1/woodwork-books.jpg&quot;
+            alt=&quot;good clean fun and the art and craft of wood hardcover books on a wooden desk&quot;
+            title=&quot;good clean fun and the art and craft of wood hardcover books on a wooden desk&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I have personally found two main books helpful in getting me up and running. &lt;a href=&quot;https://www.quartoknows.com/books/9781631592973/The-Art-and-Craft-of-Wood.html?direct=1&quot;&gt;“The Art and Craft of Wood” by Silas J. Kyler and David Hildreth&lt;/a&gt;, and &lt;a href=&quot;https://offermanwoodshop.com/store/library/books/good-clean-fun-autographed-copy/&quot;&gt;“Good Clean Fun” by Nick Offerman&lt;/a&gt;. The former is an all-encompassing look at woodwork, from harvesting, milling, planning, building, and finishing. The latter is a fun tour of Offerman’s shop, including many challenging projects (which I haven’t really tried yet), and I very much enjoy his passion and writing style.&lt;/p&gt;
+&lt;p&gt;I started this piece intending to review my favourite wood finishing oil or wax poetic on the philosophy of jigs. I didn’t quite get there today, but I will. Just like I’ll get to those baseboards in our upstairs hallway.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My boy's AlphaSmaht]]></title><description><![CDATA[Got something fun in the mail today. I ordered it from eBay on my birthday, as a gift to myself to help with writing.   The AlphaSmart 300…]]></description><link>http://belwerks.com/my-boys-alpha-smaht/</link><guid isPermaLink="false">http://belwerks.com/my-boys-alpha-smaht/</guid><pubDate>Mon, 17 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Got something fun in the mail today. I ordered it from &lt;strong&gt;eBay&lt;/strong&gt; on my birthday, as a gift to myself to help with writing. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 88.03418803418805%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEDBAUC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB9TkrRpVp06/EGQIv/8QAHhAAAgEDBQAAAAAAAAAAAAAAAQIDAAQSEBEiMTP/2gAIAQEAAQUClIDZ8XK7z+1B10uic16//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQACEP/aAAgBAwEBPwFWNajn/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAECAQE/ASN//8QAHhAAAAUFAQAAAAAAAAAAAAAAAAERIZECEBIgMXH/2gAIAQEABj8CxpL0I0DpwDs66f/EABwQAQADAAIDAAAAAAAAAAAAAAEAESExQVFhgf/aAAgBAQABPyE+KzlUb6I8JIEXwdRn2bDC9qAKHxGWBbU0Z//aAAwDAQACAAMAAAAQi9AD/8QAFxEBAQEBAAAAAAAAAAAAAAAAATEAEP/aAAgBAwEBPxBDcIj3/8QAGBEBAQADAAAAAAAAAAAAAAAAAQAQETH/2gAIAQIBAT8QAck7nH//xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMUFhcZGx/9oACAEBAAE/EBsF3KmYFxLj1WS+mjAhmK0z3ULl6BrxHqB2aa/JY3ThSZALdHMQ1hoLhNh1ruf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/3a5aa7aad18645453f0f4d74eab8c162/a85df/alphasmart-3000-unbox.webp 234w,
+/static/3a5aa7aad18645453f0f4d74eab8c162/2cd4d/alphasmart-3000-unbox.webp 468w,
+/static/3a5aa7aad18645453f0f4d74eab8c162/6c1b3/alphasmart-3000-unbox.webp 935w,
+/static/3a5aa7aad18645453f0f4d74eab8c162/e00f7/alphasmart-3000-unbox.webp 1000w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/3a5aa7aad18645453f0f4d74eab8c162/60be2/alphasmart-3000-unbox.jpg 234w,
+/static/3a5aa7aad18645453f0f4d74eab8c162/d586f/alphasmart-3000-unbox.jpg 468w,
+/static/3a5aa7aad18645453f0f4d74eab8c162/ea0e1/alphasmart-3000-unbox.jpg 935w,
+/static/3a5aa7aad18645453f0f4d74eab8c162/16038/alphasmart-3000-unbox.jpg 1000w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/3a5aa7aad18645453f0f4d74eab8c162/ea0e1/alphasmart-3000-unbox.jpg&quot;
+            alt=&quot;AlphaSmart 3000 keyboard fresh out of the bubble wrap&quot;
+            title=&quot;AlphaSmart 3000 keyboard fresh out of the bubble wrap&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/AlphaSmart#AlphaSmart_3000&quot;&gt;&lt;em&gt;AlphaSmart 3000&lt;/em&gt; was released in 2000&lt;/a&gt; as an upgrade to previous models in the &lt;strong&gt;AlphaSmart&lt;/strong&gt; line of word processors. The font choice, keypad, shortcut controls, and key names (eg. “cmd”) were apparently all meant to be familiar for &lt;strong&gt;Apple&lt;/strong&gt; users. This played well with the &lt;em&gt;3000&lt;/em&gt;’s biggest new feature: &lt;strong&gt;USB&lt;/strong&gt;. The port format was so new and hip at the time that &lt;strong&gt;AlphaSmart&lt;/strong&gt; released the &lt;em&gt;3000&lt;/em&gt; in &lt;a href=&quot;https://en.wikipedia.org/wiki/IMac_G3&quot;&gt;a bondi-blue plastic case to visually tie-in with the first generation of &lt;em&gt;iMac&lt;/em&gt;&lt;/a&gt; (then the principle driver of &lt;strong&gt;USB&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;Fortunately for me, writing this in 2020, &lt;strong&gt;USB&lt;/strong&gt; hasn’t managed to be completely killed off yet. My 2012 &lt;em&gt;iMac&lt;/em&gt; will connect with the &lt;em&gt;AlphaSmart 3000&lt;/em&gt; natively. My work-issued 2020 &lt;em&gt;MacBook Pro&lt;/em&gt; surprinsingly will as well; albeit with a dongle to convert from from &lt;strong&gt;USB-C&lt;/strong&gt;. How often can you still make use of 20-year-old tech without it being a major undertaking? Let alone being an enjoyable experience!?&lt;/p&gt;
+&lt;p&gt;You may be thinking “Ok, you hipster goon, go clack away at your mechanical keyboard and stop wasting our time.” Totally fair. Buying a prehistoric word processor with an &lt;strong&gt;LED&lt;/strong&gt; screen that displays four lines at a time (though, I must say, the character spacing, line height, and line length are all beautifully readable) does seem like a fairly foolish endeavour. For me, however, this helps address a genuine struggle.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 935px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.35897435897436%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGT5HhyQf/EABkQAAMBAQEAAAAAAAAAAAAAAAABAhIDEf/aAAgBAQABBQJdejNWVVprw0jSP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AYf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAACAgMBAAAAAAAAAAAAAAAAASExAgMQMv/aAAgBAQAGPwL2TsZGTLfKP//EABsQAAMAAgMAAAAAAAAAAAAAAAABEUFxIWGR/9oACAEBAAE/IVd4IoKMeWxlzaRLD9Oof//aAAwDAQACAAMAAAAQSN//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFR/9oACAEDAQE/EAcsL//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxA1f//EAB8QAAIBBAIDAAAAAAAAAAAAAAERACFhcbExQVHB8P/aAAgBAQABPxBOk68PJv2ZQSzflA6oek7MNI7IDQtCBMLyfc//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/static/4912fc21634748d12a821337cbaf4895/a85df/alphasmart-3000-obi-wan.webp 234w,
+/static/4912fc21634748d12a821337cbaf4895/2cd4d/alphasmart-3000-obi-wan.webp 468w,
+/static/4912fc21634748d12a821337cbaf4895/6c1b3/alphasmart-3000-obi-wan.webp 935w,
+/static/4912fc21634748d12a821337cbaf4895/e00f7/alphasmart-3000-obi-wan.webp 1000w&quot;
+              sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/static/4912fc21634748d12a821337cbaf4895/60be2/alphasmart-3000-obi-wan.jpg 234w,
+/static/4912fc21634748d12a821337cbaf4895/d586f/alphasmart-3000-obi-wan.jpg 468w,
+/static/4912fc21634748d12a821337cbaf4895/ea0e1/alphasmart-3000-obi-wan.jpg 935w,
+/static/4912fc21634748d12a821337cbaf4895/16038/alphasmart-3000-obi-wan.jpg 1000w&quot;
+            sizes=&quot;(max-width: 935px) 100vw, 935px&quot;
+            type=&quot;image/jpeg&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/static/4912fc21634748d12a821337cbaf4895/ea0e1/alphasmart-3000-obi-wan.jpg&quot;
+            alt=&quot;A short story about Obi Wan saying &amp;quot;hello there&amp;quot; displayed on the AlphaSmart&amp;#39;s LCD screen&quot;
+            title=&quot;A short story about Obi Wan saying &amp;quot;hello there&amp;quot; displayed on the AlphaSmart&amp;#39;s LCD screen&quot;
+            loading=&quot;lazy&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I’m in that range of millenials (&lt;a href=&quot;https://www.mentalfloss.com/article/502250/how-tell-if-youre-xennial&quot;&gt;sometimes referred to as &lt;em&gt;xennials&lt;/em&gt;&lt;/a&gt;) who have full, fond, childhood memories of the world sans internet. I remember writing my first essays on a typewriter and marking in the accents (I was in French immersion) with a pen. I recall the novelty of exploring the internet for news on the the &lt;strong&gt;THX&lt;/strong&gt; remaster of the &lt;em&gt;Star Wars&lt;/em&gt; trilogy when it was generally a place filled more with good-willed, curious tech-heads than it was with Russian trolls and baby fascists. It was a magical, naive place. The first time I bought something online, my (parents’) credit card number was sent in plain text and the protocol was “http” — and I actually received the purchase without having my identity pillaged. The point is: I started exploring and crafting creativity, language, and art when sitting in front of a screen all day was a rare and privledged experience. Those were the days.&lt;/p&gt;
+&lt;p&gt;The past near-decade, while I’ve worked in the tech world as a web developer, I’ve had less and less desire to sit in front of a screen as a hobby after spending 8-12 hours a day, doing exactly the same thing for a paycheque. Sure, I’ve managed to type out a few finished pieces (including the only feature-length screenplay I’ve ever completed) over that time, but it comes with great effort, heavy self-fladulation, and a raging inner critic who happily has his way with my lack of progress. Not to mention the extra pressure it places on my wife and children when I’m furious with myself for, in my estimation, failing spectacularly at nearly every writing attempt. Given the results, it is little wonder that my defensive reaction has been to pull back from the passtime I so dearly love and the craft I’ve been aching to hone.&lt;/p&gt;
+&lt;p&gt;Cue my good friend Daniel, the fellow who trained for and ran my birthday half-marathon at my side. He bought himself an &lt;em&gt;AlphaSmart 3000&lt;/em&gt; a couple of months prior, due in large part to many of the same struggles I’ve had. We spent a chunk of that 21 kilometers in July talking about his experiences with it to that point. By the fourth split, I was sold. I ordered mine that afternoon and have been refreshing &lt;strong&gt;eBay&lt;/strong&gt;’s shipping updates in the days since. &lt;/p&gt;
+&lt;p&gt;How is it working out so far? Well, I’ve managed to power through this piece in a single session without checking the internet (except to be sure I got the release date correct), wasting time on &lt;strong&gt;Facebook&lt;/strong&gt;, or fighting with weak wifi failing to sync with &lt;em&gt;Google Docs&lt;/em&gt;. I was able to stand at the work bench in my garage and listen to &lt;a href=&quot;https://www.allmusic.com/album/meat-puppets-ii-mw0000193623&quot;&gt;the &lt;strong&gt;Meat Puppets&lt;/strong&gt;&lt;/a&gt; on casette (again with the raging hipsterdom, I know) and type this up while waiting for the wood glue to dry on a shelf I’m constructing. And the best part? The &lt;strong&gt;USB&lt;/strong&gt; transfer guarantees that I don’t have to manually type up a hand-scrawled monstrosity. &lt;/p&gt;
+&lt;p&gt;I would say that’s a pretty decent show of success so far. Now, if you’ll excuse me, I’ll be running a manual spell check and fighting with the results of a 20-year-old dictionary. Really - ”&lt;em&gt;AlphaSmart&lt;/em&gt;” isn’t even recognized!?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[“Why is accessibility important?” — Part 2]]></title><description><![CDATA[Finally, here’s the second of three doses on why accessibility is important. Part one focused on definining “disability” as a term and…]]></description><link>http://belwerks.com/why-is-accessibility-important-part-2/</link><guid isPermaLink="false">http://belwerks.com/why-is-accessibility-important-part-2/</guid><pubDate>Fri, 31 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Finally, here’s the second of three doses on why accessibility is important. &lt;a href=&quot;https://medium.com/healthhub-design/why-is-accessibility-important-part-1-d78a23a2bfef&quot;&gt;Part one focused on definining “disability” as a term and shedding light on the people who are categorized within it&lt;/a&gt;. Part two is here to look at “accessibility” as a term and the people who benefit from it being applied (spoilers: it’s everyone).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/healthhub-design/why-is-accessibility-important-part-2-cab75435c964&quot;&gt;Read &lt;em&gt;“Why is accessibility important?” — Part 2&lt;/em&gt; on the HealthHub Design blog&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[“Why is accessibility important?” — Part 1]]></title><description><![CDATA[Part one of a 3-part post answering the most frequent question I hear in relation to accessibility during my career is live today on the…]]></description><link>http://belwerks.com/why-is-accessibility-important-part-1/</link><guid isPermaLink="false">http://belwerks.com/why-is-accessibility-important-part-1/</guid><pubDate>Wed, 15 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Part one of a 3-part post answering the most frequent question I hear in relation to accessibility during my career is live today on the HealthHub Design blog. I warned you this was coming!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/healthhub-design/why-is-accessibility-important-part-1-d78a23a2bfef&quot;&gt;Read &lt;em&gt;“Why is accessibility important?” — Part 1&lt;/em&gt; on HealthHub Design&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[HealthHub Design on Medium]]></title><description><![CDATA[The design team I’m a part of at HealthHub is pretty cool, if you’ll excuse a bit of pride. We are intentionally setup as a cross…]]></description><link>http://belwerks.com/healthhub-design-on-medium/</link><guid isPermaLink="false">http://belwerks.com/healthhub-design-on-medium/</guid><pubDate>Mon, 13 Jul 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The design team I’m a part of at HealthHub is pretty cool, if you’ll excuse a bit of pride. We are intentionally setup as a cross-disciplinary team in all the best ways. I mean, you’ve got to be very welcoming of people with different disciplines and perspectives if you’re willing to bring in a curmudgeonly old front ender like myself, eh?&lt;/p&gt;
+&lt;p&gt;Together, we’re learning some of the &lt;a href=&quot;https://www.wired.com/insights/2013/12/human-centered-design-matters/&quot;&gt;pretty cool principles behind Human-Centred Design (HCD)&lt;/a&gt;, from research, to prototyping, to getting our thoughts in front of the people who have problems that need solving as early as possible, to building better products based on what they share with us. I don’t mind saying that the more I learn about HCD and work within the team I’m on, the more it brings some light back to a career that’s been dimming for a while. That’s a big change for me, and I’m happy that I’ve found it.&lt;/p&gt;
+&lt;p&gt;One thing I love at the core of our design team is that we’re all here to learn and get better at what we do. Today, we’re exhibiting this by setting up a publication on Medium to share what we care about, what we’re learning, and what’s keeping us engaged! Keep an eye out for some posts from me on (what else?) accessibility.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/healthhub-design&quot;&gt;Check out our HealthHub Design team blog on Medium&lt;/a&gt;!&lt;/p&gt;</content:encoded></item></channel></rss>
